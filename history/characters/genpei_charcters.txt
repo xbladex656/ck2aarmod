@@ -1,0 +1,8915 @@
+name="Michiie"
+dynasty=1
+culture = Japanese
+is_clan_leader = yes
+father=300
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = misguided_warrior
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Tanenao"
+dynasty=10
+culture = Japanese
+is_clan_leader = yes
+father=316
+
+diplomacy = 8
+martial = 6
+intrigue = 8
+add_trait = underhanded_rogue
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Nagamochi"
+dynasty=20
+culture = Japanese
+father = 101
+
+
+diplomacy = 9
+martial = 7
+intrigue = 8
+add_trait = tough_soldier
+
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1201.3.28={
+	death="1201.3.28"
+}
+name="Sukekuni"
+dynasty=20
+culture = Japanese
+
+1117.1.1={
+	birth="1117.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Yoshifusa" #V“c‹`–[(Kanji)
+dynasty=38
+culture = Japanese
+father=364
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1195.12.9={
+	death="1195.12.9"
+}
+name="Shigetane"
+dynasty=3
+culture = Japanese
+father=305
+
+1155.4.5={
+	birth="1155.4.5"
+}
+1218.5.6={
+	death="1218.5.6"
+}
+name="Yorinao"
+dynasty=68
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1181.1.1={
+	death="1181.1.1"
+}
+name="Yoritsuna" #‰F“s‹{—Šj(Kanji)
+dynasty=64
+culture = Japanese
+father=415
+
+1172.1.1={
+	birth="1172.1.1"
+}
+1259.12.16={
+	death="1259.12.16"
+}
+name="Yukibumi"
+dynasty=69
+culture = Japanese
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1189.8.1={
+	death="1189.8.1"
+}
+name="Hirotsuna" #²X–ØLj(Kanji)
+dynasty=141
+culture = Japanese
+father=492
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1221.7.22={
+	death="1221.7.22"
+}
+name="Taketsugu"
+dynasty=70
+culture = Japanese
+father=536
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1189.8.1={
+	death="1189.8.1"
+}
+name="Mitsumori" #‘å“à–·(Kanji)
+dynasty=114
+culture = Japanese
+father=484
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Sadahide"
+dynasty=71
+culture = Japanese
+father=446
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Kunihira"
+dynasty=4
+culture = Japanese
+father = 4
+
+diplomacy = 7 
+martial = 7
+intrigue = 5
+add_trait = tough_soldier
+add_trait = brave
+
+1152.1.2={
+	birth="1152.1.2"
+}
+1189.9.21={
+	death="1189.9.21"
+}
+name="Yasuhira"
+dynasty=4
+culture = Japanese
+father = 4
+
+diplomacy = 9 
+martial = 6
+intrigue = 2
+add_trait = amateurish_plotter
+add_trait = envious
+add_trait = deceitful
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1189.10.14={
+	death="1189.10.14"
+}
+name="Tadahira"
+dynasty=4
+culture = Japanese
+father = 4
+
+diplomacy = 3 
+martial = 6
+intrigue = 7
+add_trait = misguided_warrior
+add_trait = honest
+
+1167.1.1={
+	birth="1167.1.1"
+}
+1189.8.9={
+	death="1189.8.9"
+}
+name="Takahira"
+dynasty=4
+culture = Japanese
+father = 4
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1201.4.4={
+	death="1201.4.4"
+}
+name="Chikashi"
+dynasty=11
+culture = Japanese
+is_clan_leader = yes
+father=318
+
+diplomacy = 7
+martial = 7
+intrigue = 7
+add_trait = misguided_warrior
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Motoharu"
+dynasty=72
+culture = Japanese
+father=448
+
+1112.1.1={
+	birth="1112.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Tametoshi"
+dynasty=73
+culture = Japanese
+father=453
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Yoshimoto"
+dynasty=74
+culture = Japanese
+father=455
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Sukemoto"
+dynasty=75
+culture = Japanese
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Michiyasu"
+dynasty=76
+culture = Japanese
+father=458
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Tamekuni"
+dynasty=92
+culture = Japanese
+father=460
+
+diplomacy = 7
+martial = 7
+intrigue = 8
+add_trait = tough_soldier
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Morihiro"
+dynasty=93
+culture = Japanese
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Yukichika"
+dynasty=94
+culture = Japanese
+father=463
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1184.3.5={
+	death="1184.3.5"
+}
+name="Yoshikane"
+dynasty=95
+culture = Japanese
+father=416
+
+1148.1.1={
+	birth="1148.1.1"
+}
+1187.1.1={
+	death="1187.1.1"
+}
+name="Mitsuaki"
+dynasty=12
+culture = Japanese
+is_clan_leader = yes
+father=320
+
+diplomacy = 7
+martial = 7
+intrigue = 7
+add_trait = amateurish_plotter
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Kunimasa"
+dynasty=97
+culture = Japanese
+father=465
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Munemori"
+dynasty=53
+culture = Japanese
+father=53
+
+diplomacy = 7 
+martial = 10
+intrigue = 9
+add_trait = naive_appeaser
+add_trait = imbecile
+add_trait = benevolent
+add_trait = coward
+
+1147.1.1={
+	birth="1147.1.1"
+}
+1185.7.19={
+	death="1185.7.19"
+}name="Tomomori"
+dynasty=53
+culture = Japanese
+father = 53
+
+diplomacy = 7 
+martial = 5
+intrigue = 7
+add_trait = misguided_warrior
+add_trait = brave
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1185.4.25={
+	death="1185.4.25"
+}
+name="Shigehira"
+dynasty=53
+culture = Japanese
+father = 53
+
+diplomacy = 4 
+martial = 7
+intrigue = 7
+add_trait = underhanded_rogue
+add_trait = fair
+add_trait = musician
+add_trait = benevolent
+
+1157.1.1={
+	birth="1157.1.1"
+}
+1185.7.21={
+	death="1185.7.21"
+}
+name="Tomonori"
+dynasty=53
+culture = Japanese
+father = 53
+
+1159.1.1={
+	birth="1159.1.1"
+}
+1183.6.2={
+	death="1183.6.2"
+}
+name="Kiyofusa"
+dynasty=53
+culture = Japanese
+father = 53
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}
+name="Shigemori"
+dynasty=53
+culture = Japanese
+father = 53
+
+diplomacy = 7 
+martial = 12
+intrigue = 13
+add_trait = charismatic_negotiator
+add_trait = stressed
+add_trait = humble
+add_trait = just
+
+1138.1.1={
+	birth="1138.1.1"
+}
+1179.9.2={
+	death="1179.9.2"
+}
+name="Motomori"
+dynasty=53
+culture = Japanese
+father = 53
+
+1139.1.1={
+	birth="1139.1.1"
+}
+1162.5.2={
+	death="1162.5.2"
+}
+name="Suesada"
+dynasty=98
+culture = Japanese
+father=467
+
+diplomacy = 8
+martial = 11
+intrigue = 7
+add_trait = charismatic_negotiator
+add_trait = poet
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Suketaka"
+dynasty=99
+culture = Japanese
+father=468
+
+1122.1.1={
+	birth="1122.1.1"
+}
+1188.1.1={
+	death="1188.1.1"
+}
+name="Yoshiyuki"
+dynasty=13
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = misguided_warrior
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Shigeyoshi"
+dynasty=100
+culture = Japanese
+
+diplomacy = 8
+martial = 8
+intrigue = 10
+add_trait = flamboyant_schemer
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Ietsuna"
+dynasty=101
+culture = Japanese
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Saneyasu" #ˆÀŒ|ÀN(Kanji)
+dynasty=102
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Toshinori"
+dynasty=103
+culture = Japanese
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Chikakiyo"
+dynasty=104
+culture = Japanese
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Yorinori"
+dynasty=105
+culture = Japanese
+father=497
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Nakayori"
+dynasty=106
+culture = Japanese
+father=471
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Tsuneto"
+dynasty=107
+culture = Japanese
+father=473
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Norikiyo"
+dynasty=108
+culture = Japanese
+father=475
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Kaneyasu"
+dynasty=109
+culture = Japanese
+
+1136.1.1={
+	birth="1136.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Yoshinao"
+dynasty=14
+culture = Japanese
+is_clan_leader = yes
+father=322
+
+diplomacy = 7
+martial = 7
+intrigue = 8
+add_trait = amateurish_plotter
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Seijaku"
+dynasty=110
+culture = Japanese
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Suetada"
+dynasty=111
+culture = Japanese
+
+1124.1.1={
+	birth="1124.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Moriie"
+dynasty=112
+culture = Japanese
+father=479
+
+1141.1.1={
+	birth="1141.1.1"
+}
+1201.1.1={
+	death="1201.1.1"
+}
+name="Moriie"
+dynasty=113
+culture = Japanese
+father=481
+
+1139.1.1={
+	birth="1139.1.1"
+}
+1199.1.1={
+	death="1199.1.1"
+}
+name="Morifusa"
+dynasty=114
+culture = Japanese
+father=483
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Koreyoshi"
+dynasty=115
+culture = Japanese
+father=485
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Ietsugu"
+dynasty=116
+culture = Japanese
+father=487
+
+diplomacy = 9
+martial = 12
+intrigue = 7
+add_trait = tough_soldier
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1184.8.14={
+	death="1184.8.14"
+}
+name="Yoshikane"
+dynasty=117
+culture = Japanese
+father=488
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Tadamori"
+dynasty=53
+culture = Japanese
+father=212
+
+1096.1.1={
+	birth="1096.1.1"
+}
+1153.2.10={
+	death="1153.2.10"
+}name="Iemori"
+dynasty=53
+culture = Japanese
+father=148
+
+1123.1.1={
+	birth="1123.1.1"
+}
+1149.4.24={
+	death="1149.4.24"
+}name="Tokisada"
+dynasty=15
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 6
+martial = 8
+intrigue = 6
+add_trait = naive_appeaser
+
+1132.1.1={
+	birth="1132.1.1"
+}
+1202.3.3={
+	death="1202.3.3"
+}
+name="Tsunemori" #•½Œo·(Kanji)
+dynasty=53
+culture = Japanese
+father=148
+
+1124.1.1={
+	birth="1124.1.1"
+}
+1185.4.25={
+	death="1185.4.25"
+}name="Norimori" #•½‹³·(Kanji)
+dynasty=53
+culture = Japanese
+father=148
+
+1128.1.1={
+	birth="1128.1.1"
+}
+1185.4.25={
+	death="1185.4.25"
+}name="Yorimori" #•½—Š·(Kanji)
+dynasty=53
+culture = Japanese
+father=148
+
+1133.1.1={
+	birth="1133.1.1"
+}
+1186.6.20={
+	death="1186.6.20"
+}name="Tadanori" #•½’‰“x(Kanji)
+dynasty=53
+culture = Japanese
+father=148
+
+1144.1.1={
+	birth="1144.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Kageie" #“¡Œ´Œi‰Æ(Kanji)
+dynasty=5
+culture = Japanese
+father=155
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1185.6.15={
+	death="1185.6.15"
+}
+name="Kagetsuna" #“¡Œ´Œij(Kanji)
+dynasty=5
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1155.1.1={
+	death="1155.1.1"
+}
+name="Tokimasa"
+dynasty=120
+culture = Japanese
+father=727
+
+diplomacy = 10
+martial = 7
+intrigue = 7
+add_trait = intricate_webweaver
+add_trait = envious
+add_trait = arbitrary
+
+1138.1.1={
+	birth="1138.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1215.2.6={
+	death="1215.2.6"
+}
+name="Yoshikiyo" #@‘«—˜‹`´(kanji)
+dynasty=121
+culture = Japanese
+father=275
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1183.11.17={
+	death="1183.11.17"
+}name="Yoshinaga" #@‘«—˜‹`’·(kanji)
+dynasty=121
+culture = Japanese
+father=275
+
+1147.1.1={
+	birth="1147.1.1"
+}
+1183.11.17={
+	death="1183.11.17"
+}name="Yoshikane" #@‘«—˜‹`Œ“(kanji)
+dynasty=121
+culture = Japanese
+father=275
+
+1148.1.1={
+	birth="1148.1.1"
+}
+1157.7.7={
+	employer=38
+}
+1199.4.5={
+	death="1199.4.5"
+}name="Mitsuhiro"
+dynasty=16
+culture = Japanese
+is_clan_leader = yes
+father=325
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = misguided_warrior
+
+1143.1.1={
+	birth="1143.1.1"
+}
+1203.1.1={
+	death="1203.1.1"
+}
+name="Yoshifusa" #@‘«—˜‹`–[(kanji)
+dynasty=121
+culture = Japanese
+father=275
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1180.6.20={
+	death="1180.6.20"
+}name="Koremori" #•½ˆÒ·(Kanji)
+dynasty=53
+culture = Japanese
+father = 126
+
+1158.1.1={
+	birth="1158.1.1"
+}
+1184.5.10={
+	death="1184.5.10"
+}
+name="Sukemori" #•½‘·(Kanji)
+dynasty=53
+culture = Japanese
+father = 126
+
+1161.1.1={
+	birth="1161.1.1"
+}
+1185.4.25={
+	death="1185.4.25"
+}
+name="Kiyotsune" #•½´Œo(Kanji)
+dynasty=53
+culture = Japanese
+father = 126
+
+1163.1.1={
+	birth="1163.1.1"
+}
+1183.4.4={
+	death="1183.4.4"
+}
+name="Arimori" #•½—L·(Kanji)
+dynasty=53
+culture = Japanese
+father = 126
+
+1164.1.1={
+	birth="1164.1.1"
+}
+1185.4.25={
+	death="1185.4.25"
+}
+name="Moromori" #•½t·(Kanji)
+dynasty=53
+culture = Japanese
+father = 126
+
+1171.1.1={
+	birth="1171.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}
+name="Tadafusa" #•½’‰–[(Kanji)
+dynasty=53
+culture = Japanese
+father = 126
+
+1173.1.1={
+	birth="1173.1.1"
+}
+1185.12.16={
+	death="1185.12.16"
+}
+name="Hideyoshi" #²X–ØG‹`(Kanji)
+dynasty=141
+culture = Japanese
+
+1112.1.1={
+	birth="1112.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1184.8.26={
+	death="1184.8.26"
+}
+name="Korehira" #—R—˜ˆÒ•½(Kanji)
+dynasty=161
+culture = Japanese
+father=538
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1191.1.1={
+	death="1191.1.1"
+}
+name="Motomitsu"
+dynasty=17
+culture = Japanese
+is_clan_leader = yes
+father=327
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = amateurish_plotter
+
+1139.1.1={
+	birth="1139.1.1"
+}
+1199.4.29={
+	death="1199.4.29"
+}
+name="Kiyotaka"
+dynasty=18
+culture = Japanese
+is_clan_leader = yes
+father=329
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = misguided_warrior
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Munetaka"
+dynasty=19
+culture = Japanese
+is_clan_leader = yes
+father=331
+
+diplomacy = 7
+martial = 7
+intrigue = 8
+add_trait = naive_appeaser
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Koreyasu"
+dynasty=2
+culture = Japanese
+is_clan_leader = yes
+father=302
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = amateurish_plotter
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Sukenaga"
+dynasty=20
+culture = Japanese
+is_clan_leader = yes
+father = 101
+
+diplomacy = 9
+martial = 6
+intrigue = 7
+add_trait = tough_soldier
+add_trait = brave
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1181.3.11={
+	death="1181.3.11"
+}
+name="Tsunemasa"
+dynasty=53
+culture = Japanese
+father=150
+
+1158.1.1={
+	birth="1158.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Tsunetoshi"
+dynasty=53
+culture = Japanese
+father=150
+
+1166.1.1={
+	birth="1166.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Atsumori"
+dynasty=53
+culture = Japanese
+father=150
+
+1169.1.1={
+	birth="1169.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Michimori"
+dynasty=53
+culture = Japanese
+father=151
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Noritsune"
+dynasty=53
+culture = Japanese
+father=151
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1185.4.25={
+	death="1185.4.25"
+}name="Narimori"
+dynasty=53
+culture = Japanese
+father=151
+
+1169.1.1={
+	birth="1169.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Yasumori"
+dynasty=53
+culture = Japanese
+father=152
+
+1157.1.1={
+	birth="1157.1.1"
+}
+1233.1.1={
+	death="1233.1.1"
+}name="Tamemori"
+dynasty=53
+culture = Japanese
+father=152
+
+1161.1.1={
+	birth="1161.1.1"
+}
+1221.1.1={
+	death="1221.1.1"
+}name="Kiyomune"
+dynasty=53
+culture = Japanese
+father=121
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1185.7.19={
+	death="1185.7.19"
+}name="Yoshimune"
+dynasty=53
+culture = Japanese
+father=121
+
+1178.1.1={
+	birth="1178.1.1"
+}
+1185.6.6={
+	death="1185.6.6"
+}name="Masammoto"
+dynasty=21
+culture = Japanese
+is_clan_leader = yes
+father=337
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = amateurish_plotter
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Tomoakira"
+dynasty=53
+culture = Japanese
+father = 122
+
+1169.1.1={
+	birth="1169.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}
+name="Tomotada"
+dynasty=53
+culture = Japanese
+father = 122
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1196.7.22={
+	death="1196.7.22"
+}
+name="Masamori"
+dynasty=53
+culture = Japanese
+father=213
+
+1060.1.1={
+	birth="1060.1.1"
+}
+1121.4.2={
+	death="1121.4.2"
+}name="Masahira"
+dynasty=53
+culture = Japanese
+father=214
+
+1020.1.1={
+	birth="1020.1.1"
+}
+1105.1.1={
+	death="1105.1.1"
+}name="Masanori"
+dynasty=53
+culture = Japanese
+father=215
+
+980.1.1={
+	birth="980.1.1"
+}
+1060.1.1={
+	death="1060.1.1"
+}name="Korehira"
+dynasty=53
+culture = Japanese
+father=216
+
+950.1.1={
+	birth="950.1.1"
+}
+1035.1.1={
+	death="1035.1.1"
+}name="Sadamori"
+dynasty=53
+culture = Japanese
+father=217
+
+900.1.1={
+	birth="900.1.1"
+}
+989.11.16={
+	death="989.11.16"
+}name="Kunika"
+dynasty=53
+culture = Japanese
+father=218
+
+870.1.1={
+	birth="870.1.1"
+}
+935.2.1={
+	death="935.2.1"
+}name="Takamochi"
+dynasty=53
+culture = Japanese
+
+839.10.21={
+	birth="839.10.21"
+}
+911.6.28={
+	death="911.6.28"
+}name="Yoshikane"
+dynasty=53
+culture = Japanese
+father=218
+
+875.1.1={
+	birth="875.1.1"
+}
+939.6.1={
+	death="939.6.1"
+}name="Koretada"
+dynasty=22
+culture = Japanese
+is_clan_leader = yes
+father=339
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = naive_appeaser
+
+1136.1.1={
+	birth="1136.1.1"
+}
+1196.1.1={
+	death="1196.1.1"
+}
+name="Yoshimasa"
+dynasty=53
+culture = Japanese
+father=218
+
+879.1.1={
+	birth="879.1.1"
+}
+942.1.1={
+	death="942.1.1"
+}name="Yoshifumi"
+dynasty=53
+culture = Japanese
+father=218
+
+886.4.29={
+	birth="886.4.29"
+}
+953.1.11={
+	death="953.1.11"
+}name="Yoshimasa"
+dynasty=53
+culture = Japanese
+father=218
+
+890.1.1={
+	birth="890.1.1"
+}
+940.1.1={
+	death="940.1.1"
+}name="Shigemori"
+dynasty=53
+culture = Japanese
+father=217
+
+910.1.1={
+	birth="910.1.1"
+}
+995.1.1={
+	death="995.1.1"
+}name="Yasutada"
+dynasty=53
+culture = Japanese
+father=223
+
+980.1.1={
+	birth="980.1.1"
+}
+1060.1.1={
+	death="1060.1.1"
+}name="Tadahira"
+dynasty=53
+culture = Japanese
+father=224
+
+1050.1.1={
+	birth="1050.1.1"
+}
+1130.1.1={
+	death="1130.1.1"
+}name="Masakado"
+dynasty=53
+culture = Japanese
+father=220
+
+903.1.1={
+	birth="903.1.1"
+}
+940.3.25={
+	death="940.3.25"
+}name="Tadamitsu"
+dynasty=53
+culture = Japanese
+father=221
+
+932.1.1={
+	birth="932.1.1"
+}
+990.1.1={
+	death="990.1.1"
+}name="Tadamichi"
+dynasty=53
+culture = Japanese
+father=227
+
+980.1.1={
+	birth="980.1.1"
+}
+1040.1.1={
+	death="1040.1.1"
+}name="Tadamasa"
+dynasty=53
+culture = Japanese
+father=212
+
+1108.1.1={
+	birth="1108.1.1"
+}
+1156.8.15={
+	death="1156.8.15"
+}name="Hirotsune"
+dynasty=23
+culture = Japanese
+is_clan_leader = yes
+father=341
+
+diplomacy = 6
+martial = 7
+intrigue = 9
+add_trait = underhanded_rogue
+add_trait = brash
+add_trait = ambitious
+
+1122.1.1={
+	birth="1122.1.1"
+}
+1184.2.3={
+	death="1184.2.3"
+}
+name="Suehira"
+dynasty=53
+culture = Japanese
+father=214
+
+1022.1.1={
+	birth="1022.1.1"
+}
+1081.1.1={
+	death="1081.1.1"
+}name="Moriyasu"
+dynasty=53
+culture = Japanese
+father=230
+
+1068.1.1={
+	birth="1068.1.1"
+}
+1142.1.1={
+	death="1142.1.1"
+}name="Morikuni"
+dynasty=53
+culture = Japanese
+father=231
+
+1113.1.1={
+	birth="1113.1.1"
+}
+1180.1.1={
+	employer=53
+}
+1186.8.11={
+	death="1186.8.11"
+}name="Moritoshi"
+dynasty=53
+culture = Japanese
+father=232
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer=53
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Michihiro"
+dynasty=24
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = amateurish_plotter
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Yoshinaka"
+dynasty=25
+culture = Japanese
+is_clan_leader = yes
+father=261
+
+diplomacy = 6
+martial = 6
+intrigue = 6
+add_trait = skilled_tactician
+add_trait = quick
+add_trait = rude
+add_trait = brave
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1184.3.4={
+	death="1184.3.4"
+}
+name="Yoshitomo"
+dynasty=32
+culture = Japanese
+father=258
+
+1123.1.1={
+	birth="1123.1.1"
+}
+1160.2.11={
+	death="1160.2.11"
+}name="Yoshihira"
+dynasty=32
+culture = Japanese
+father=250
+
+1141.1.1={
+	birth="1141.1.1"
+}
+1160.3.4={
+	death="1160.3.4"
+}name="Tomonaga"
+dynasty=32
+culture = Japanese
+father=250
+
+1143.1.1={
+	birth="1143.1.1"
+}
+1160.2.8={
+	death="1160.2.8"
+}name="Yoshikado"
+dynasty=32
+culture = Japanese
+father=250
+
+1144.1.1={
+	birth="1144.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}name="Noriyori"
+dynasty=32
+culture = Japanese
+father=250
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1193.9.14={
+	death="1193.9.14"
+}name="Zenjo"
+dynasty=32
+culture = Japanese
+father=250
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1203.8.1={
+	death="1203.8.1"
+}name="Gien"
+dynasty=32
+culture = Japanese
+father=250
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1181.4.25={
+	death="1181.4.25"
+}name="Yoshitsune"
+dynasty=32
+culture = Japanese
+father=250
+
+#(D/M/I:3/16/7)
+diplomacy = 5
+martial = 5
+intrigue = 4
+
+add_trait = brilliant_strategist
+add_trait = quick
+add_trait = arbitrary
+add_trait = brave
+add_trait = proud
+
+1159.1.1={
+	birth="1159.1.1"
+}
+1180.5.1={
+	employer=4
+}
+1189.6.15={
+	death="1189.6.15"
+}name="Tameyoshi"
+dynasty=32
+culture = Japanese
+father=268
+
+#(D/M/I:3/8/6)
+diplomacy = 7
+martial = 7
+intrigue = 3
+
+add_trait = amateurish_plotter
+add_trait = rude
+add_trait = greedy
+
+1096.1.1={
+	birth="1096.1.1"
+}
+1156.8.17={
+	death="1156.8.17"
+}name="Yoshikata" #Œ¹‹`Œ«(Kanji)
+dynasty=32
+culture = Japanese
+father=258
+
+1126.1.1={
+	birth="1126.1.1"
+}
+1155.9.14={
+	death="1155.9.14"
+}name="Takanao"
+dynasty=26
+culture = Japanese
+is_clan_leader = yes
+father=344
+
+diplomacy = 8
+martial = 7
+intrigue = 7
+add_trait = flamboyant_schemer
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1185.11.1={
+	death="1185.11.1"
+}
+name="Yoshihiro" #Œ¹‹`L(Kanji)
+dynasty=118
+culture = Japanese
+father=258
+is_clan_leader = yes
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1184.6.13={
+	death="1184.6.13"
+}name="Yorikata" #Œ¹—ŠŒ«(Kanji)
+dynasty=32
+culture = Japanese
+father=258
+
+1132.1.1={
+	birth="1132.1.1"
+}
+1156.8.17={
+	death="1156.8.17"
+}name="Tamemune" #Œ¹ˆ×@(Kanji)
+dynasty=32
+culture = Japanese
+father=258
+
+1134.1.1={
+	birth="1134.1.1"
+}
+1156.8.17={
+	death="1156.8.17"
+}name="Tamenari" #Œ¹ˆ×¬(Kanji)
+dynasty=32
+culture = Japanese
+father=258
+
+1136.1.1={
+	birth="1136.1.1"
+}
+1156.8.17={
+	death="1156.8.17"
+}name="Tametomo"
+dynasty=32
+culture = Japanese
+father=258
+
+diplomacy = 5
+martial = 10
+intrigue = 6
+add_trait = skilled_tactician
+add_trait = brave
+add_trait = skilled_archer
+
+1139.1.1={
+	birth="1139.1.1"
+}
+1170.4.23={
+	death="1170.4.23"
+}name="Tamenaka" #Œ¹ˆ×’‡(Kanji)
+dynasty=32
+culture = Japanese
+father=258
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1156.8.17={
+	death="1156.8.17"
+}name="Yukiie" #Œ¹s‰Æ(Kanji)
+dynasty=32
+culture = Japanese
+father=258
+
+diplomacy = 11
+martial = 3
+intrigue = 6
+add_trait = intricate_webweaver
+add_trait = envious
+add_trait = arbitrary
+add_trait = ambitious
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.5.1={
+	employer=56
+}
+1186.6.1={
+	death="1186.6.1"
+}name="Nakaie" #Œ¹’‡‰Æ(Kanji)
+dynasty=25
+culture = Japanese
+father=261
+
+1138.1.1={
+	birth="1138.1.1"
+}
+1180.6.20={
+	death="1180.6.20"
+}
+name="Yoshiie" #Œ¹‹`‰Æ(Kanji)
+dynasty=32
+culture = Japanese
+father=276
+
+diplomacy = 10
+martial = 8
+intrigue = 7
+add_trait = brilliant_strategist
+add_trait = quick
+add_trait = brave
+add_trait = greedy
+
+
+1039.1.1={
+	birth="1039.1.1"
+}
+1106.8.4={
+	death="1106.8.4"
+}name="Yoshimune" #@Œ¹‹`@(kanji)
+dynasty=32
+culture = Japanese
+father=268
+
+1067.1.1={
+	birth="1067.1.1"
+}
+1095.1.1={
+	death="1095.1.1"
+}name="Michikiyo"
+dynasty=27
+culture = Japanese
+is_clan_leader = yes
+father=346
+
+diplomacy = 8
+martial = 7
+intrigue = 7
+add_trait = flamboyant_schemer
+
+1132.1.1={
+	birth="1132.1.1"
+}
+1181.2.27={
+	death="1181.2.27"
+}
+name="Yoshichika" #@Œ¹‹`e(kanji)
+dynasty=32
+culture = Japanese
+father=268
+
+1067.1.1={
+	birth="1067.1.1"
+}
+1108.3.3={
+	death="1108.3.3"
+}name="Yoshikuni" #@Œ¹‹`‘(kanji)
+dynasty=32
+culture = Japanese
+father=268
+
+1091.1.1={
+	birth="1091.1.1"
+}
+1155.1.1={
+	death="1155.1.1"
+}name="Yoshitada" #@Œ¹‹`’‰(kanji)
+dynasty=32
+culture = Japanese
+father=268
+
+1083.1.1={
+	birth="1083.1.1"
+}
+1109.3.6={
+	death="1109.3.6"
+}name="Yoshitoki" #@Œ¹‹`(kanji)
+dynasty=32
+culture = Japanese
+father=268
+
+1095.1.1={
+	birth="1095.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}name="Yoshitaka" #@Œ¹‹`—²(kanji)
+dynasty=32
+culture = Japanese
+father=268
+
+1102.1.1={
+	birth="1102.1.1"
+}
+1172.1.1={
+	death="1172.1.1"
+}name="Yoshiyasu" #@‘«—˜‹`N(kanji)
+dynasty=121
+culture = Japanese
+father=271
+
+1127.1.1={
+	birth="1127.1.1"
+}
+1157.7.7={
+	death="1157.7.7"
+}name="Yoriyoshi" #Œ¹—Š‹`(Kanji)
+dynasty=32
+culture = Japanese
+father=282
+
+988.1.1={
+	birth="988.1.1"
+}
+1075.8.27={
+	death="1075.8.27"
+}name="Yoshitsuna" #Œ¹‹`j(Kanji)
+dynasty=32
+culture = Japanese
+father=276
+
+1042.1.1={
+	birth="1042.1.1"
+}
+1132.1.1={
+	death="1132.1.1"
+}name="Yoshimitsu" #Œ¹‹`Œõ(Kanji)
+dynasty=32
+culture = Japanese
+father=276
+
+1045.1.1={
+	birth="1045.1.1"
+}
+1127.11.25={
+	death="1127.11.25"
+}name="Yoshinari" #Œ¹‹`‹Æ(Kanji)
+dynasty=32
+culture = Japanese
+father=278
+
+1077.1.1={
+	birth="1077.1.1"
+}
+1133.4.4={
+	death="1133.4.4"
+}name="Nagatsune"
+dynasty=28
+culture = Japanese
+is_clan_leader = yes
+father=348
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = amateurish_plotter
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Moriyoshi" #Œ¹·‹`(Kanji)
+dynasty=32
+culture = Japanese
+father=278
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1152.1.1={
+	death="1152.1.1"
+}name="Tadamune" #”Ñ•x’‰@(Kanji)
+dynasty=98
+culture = Japanese
+father=272
+
+1103.1.1={
+	birth="1103.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Yorichika" #Œ¹—Še(Kanji)
+dynasty=32
+culture = Japanese
+father=283
+
+970.1.1={
+	birth="970.1.1"
+}
+1055.1.1={
+	death="1055.1.1"
+}name="Mitsunaka" #Œ¹–’‡(Kanji)
+dynasty=32
+culture = Japanese
+father=284
+
+912.4.29={
+	birth="912.4.29"
+}
+997.10.6={
+	death="997.10.6"
+}name="Tsunemoto" #Œ¹ŒoŠî(Kanji)
+dynasty=32
+culture = Japanese
+
+880.4.29={
+	birth="880.4.29"
+}
+961.12.25={
+	death="961.12.25"
+}name="Shigemune"
+dynasty=32
+culture = Japanese
+#father=284
+
+1050.1.1={
+	birth="1050.1.1"
+}
+1110.1.1={
+	death="1110.1.1"
+}
+name="Kiyoshi"
+dynasty=29
+culture = Japanese
+is_clan_leader = yes
+father=350
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = misguided_warrior
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Tsunetane"
+dynasty=3
+culture = Japanese
+is_clan_leader = yes
+father=304
+
+diplomacy = 8
+martial = 9
+intrigue = 8
+add_trait = underhanded_rogue
+
+1118.6.14={
+	birth="1118.6.14"
+}
+1201.4.28={
+	death="1201.4.28"
+}
+name="Mareyoshi"
+dynasty=30
+culture = Japanese
+is_clan_leader = yes
+father=250
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = naive_appeaser
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1182.10.24={
+	death="1182.10.24"
+}
+name="Iemitsu" #ˆ°“c‰ÆŒõ(Kanji)
+dynasty=1
+culture = Japanese
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1165.1.1={
+	death="1165.1.1"
+}
+name="Tadaie" #ˆ°“c’‰‰Æ(Kanji)
+dynasty=1
+culture = Japanese
+father=1
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Korenobu" #ˆ¢‘hˆÒé(Kanji)
+dynasty=2
+culture = Japanese
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Koretsugu" #ˆ¢‘hˆÒŸ(Kanji)
+dynasty=2
+culture = Japanese
+father=2
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Tsuneshige" #ç—tíd(Kanji)
+dynasty=3
+culture = Japanese
+father=500
+
+1083.4.18={
+	birth="1083.4.18"
+}
+1180.9.28={
+	death="1180.9.28"
+}
+name="Tanemasa" #ç—tˆû³(Kanji)
+dynasty=3
+culture = Japanese
+father=3
+
+1141.5.8={
+	birth="1141.5.8"
+}
+1203.8.28={
+	death="1203.8.28"
+}
+name="Morotsune"
+dynasty=119
+culture = Japanese
+father=3
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.12.26={
+	death="1205.12.26"
+}
+name="Motohira" #“¡Œ´Šît(Kanji)
+dynasty=4
+culture = Japanese
+father=540
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1157.4.29={
+	death="1157.4.29"
+}
+name="Tadatsuna" #“¡Œ´’‰j(Kanji)
+dynasty=5
+culture = Japanese
+father=5
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1183.6.2={
+	death="1183.6.2"
+}
+name="Kagekiyo" #“¡Œ´Œi´(Kanji)
+dynasty=5
+culture = Japanese
+father=5
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = tough_soldier
+add_trait = brave
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1196.1.1={
+	death="1196.1.1"
+}
+name="Yorimasa"
+dynasty=31
+culture = Japanese
+father=352
+
+diplomacy = 8
+martial = 6
+intrigue = 9
+add_trait = underhanded_rogue
+add_trait = poet
+add_trait = skilled_archer
+
+1104.1.1={
+	birth="1104.1.1"
+}
+1180.6.20={
+	death="1180.6.20"
+}
+name="Ietsuna" #‘«—˜‰Æj(Kanji)
+dynasty=7
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Tadatsuna" #‘«—˜’‰j(Kanji)
+dynasty=7
+culture = Japanese
+father=7
+
+1154.1.1={
+	birth="1154.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Sukeaki" #Œã“¡•–¾(Kanji)
+dynasty=8
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Kiyoaki" #Œã“¡´–¾(Kanji)
+dynasty=8
+culture = Japanese
+father=8
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Kiyoyuki" #Œ´´s(Kanji)
+dynasty=9
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Tadayasu" #Œ´’‰ˆÀ(Kanji)
+dynasty=9
+culture = Japanese
+father=9
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tanekatsu" #Œ´“cí—Y(Kanji)
+dynasty=10
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Tanehide" #Œ´“cí‰h(Kanji)
+dynasty=10
+culture = Japanese
+father=10
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tamotsu" #”g‘½(Kanji)
+dynasty=11
+culture = Japanese
+
+1085.1.1={
+	birth="1085.1.1"
+}
+1145.1.1={
+	death="1145.1.1"
+}
+name="Akira" #”g‘½–¾(Kanji)
+dynasty=11
+culture = Japanese
+father=11
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Yoritomo"
+dynasty=32
+culture = Japanese
+is_clan_leader = yes
+father=250
+
+diplomacy = 10
+martial = 5
+intrigue = 7
+add_trait = grey_eminence
+add_trait = quick
+add_trait = suspicious
+add_trait = proud
+
+1147.5.9={
+	birth="1147.5.9"
+}
+1177.1.1={
+	add_spouse=333
+}
+1199.2.9={
+	death="1199.2.9"
+}
+name="Mitsuie" #—ÑŒõ‰Æ(Kanji)
+dynasty=12
+culture = Japanese
+
+1115.1.1={
+	birth="1115.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Mitsuhira" #—ÑŒõ•½(Kanji)
+dynasty=12
+culture = Japanese
+father=12
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Morinao" #ˆäˆÉ·’¼(Kanji)
+dynasty=14
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Hisanao" #ˆäˆÉ–í’¼(Kanji)
+dynasty=14
+culture = Japanese
+father=322
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Tokikuni" #ˆî’ë‘(Kanji)
+dynasty=15
+culture = Japanese
+father=15
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1212.1.1={
+	death="1212.1.1"
+}
+name="Mitsuoki" #Î•Œõ‹»(Kanji)
+dynasty=16
+culture = Japanese
+
+1115.1.1={
+	birth="1115.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Mitsufusa" #Î•Œõ–[(Kanji)
+dynasty=16
+culture = Japanese
+father=16
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Yoshisue" #Îì‹`‹G(Kanji)
+dynasty=17
+culture = Japanese
+
+1119.1.1={
+	birth="1119.1.1"
+}
+1177.8.1={
+	death="1177.8.1"
+}
+name="Hirosue" #ÎìL‹G(Kanji)
+dynasty=17
+culture = Japanese
+father=17
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1248.3.30={
+	death="1248.3.30"
+}
+name="Tadakiyo" #Šâé’‰´(Kanji)
+dynasty=18
+culture = Japanese
+father=225
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Yoshitsugu"
+dynasty=33
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 8
+add_trait = misguided_warrior
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1183.1.1={
+	death="1183.1.1"
+}
+name="Morotaka" #Šâét—²(Kanji)
+dynasty=18
+culture = Japanese
+father=18
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Kanetada" #o‰_Œ“’‰(Kanji)
+dynasty=19
+culture = Japanese
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1165.1.1={
+	death="1165.1.1"
+}
+name="Takafusa" #o‰_F–[(Kanji)
+dynasty=19
+culture = Japanese
+father=19
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Masako"
+female=yes
+dynasty=120
+culture = Japanese
+father=156
+
+1157.1.1={
+	birth="1157.1.1"
+}
+1225.8.16={
+	death="1225.8.16"
+}
+name="Munetoki" #–kğ@(Kanji)
+dynasty=120
+culture = Japanese
+father=156
+
+1154.1.1={
+	birth="1154.1.1"
+}
+1180.8.14={
+	death="1180.8.14"
+}
+name="Yoshitoki" #–kğ‹`(Kanji)
+dynasty=120
+culture = Japanese
+father=156
+
+1163.1.1={
+	birth="1163.1.1"
+}
+1224.7.4={
+	death="1224.7.4"
+}
+name="Tokifusa" #–kğ–[(Kanji)
+dynasty=120
+culture = Japanese
+father=156
+
+1175.1.1={
+	birth="1175.1.1"
+}
+1240.2.18={
+	death="1240.2.18"
+}
+name="Narimoto"
+dynasty=21
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Munemoto"
+dynasty=21
+culture = Japanese
+father=21
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1185.3.22={
+	death="1185.3.22"
+}
+name="Korekane" #Š‹RˆÛŒ“(Kanji)
+dynasty=22
+culture = Japanese
+
+1116.1.1={
+	birth="1116.1.1"
+}
+1176.1.1={
+	death="1176.1.1"
+}
+name="Nagayasu"
+dynasty=34
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 8
+intrigue = 6
+add_trait = naive_appeaser
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Koreshige" #Š‹RˆÛd(Kanji)
+dynasty=22
+culture = Japanese
+father=22
+
+1156.1.1={
+	birth="1156.1.1"
+}
+1216.1.1={
+	death="1216.1.1"
+}
+name="Tsunezumi"
+dynasty=23
+culture = Japanese
+father=632
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Yoshitsune" #ã‘”\í(Kanji)
+dynasty=23
+culture = Japanese
+father=23
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1184.2.3={
+	death="1184.2.3"
+}
+name="Yoshitaka" #–Ø‘]‹`‚(Kanji)
+dynasty=25
+culture = Japanese
+father=25
+
+1173.1.1={
+	birth="1173.1.1"
+}
+1184.6.6={
+	death="1184.6.6"
+}
+name="Tsunenao" #‹e’rí’¼(Kanji)
+dynasty=26
+culture = Japanese
+
+1115.1.1={
+	birth="1115.1.1"
+}
+1175.11.1={
+	death="1175.11.1"
+}
+name="Takasada" #‹e’r—²’è(Kanji)
+dynasty=26
+culture = Japanese
+father=26
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1215.11.1={
+	death="1215.11.1"
+}
+name="Chikakiyo" #‰Í–ìe´(Kanji)
+dynasty=27
+culture = Japanese
+
+1102.1.1={
+	birth="1102.1.1"
+}
+1165.1.1={
+	death="1165.1.1"
+}
+name="Michinobu" #‰Í–ì’ÊM(Kanji)
+dynasty=27
+culture = Japanese
+father=27
+
+1156.1.1={
+	birth="1156.1.1"
+}
+1222.6.29={
+	death="1222.6.29"
+}
+name="Sadanaga" #‚–Ø’å‰i(Kanji)
+dynasty=55
+culture = Japanese
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Nagahira" #‘–ì‰i•½(Kanji)
+dynasty=28
+culture = Japanese
+father=28
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Ujizane"
+dynasty=35
+culture = Japanese
+is_clan_leader = yes
+father=356
+
+diplomacy = 7
+martial = 6
+intrigue = 8
+add_trait = misguided_warrior
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Sunao" #¼‰Y’¼(Kanji)
+dynasty=29
+culture = Japanese
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Akira" #¼‰YêŸ(Kanji)
+dynasty=29
+culture = Japanese
+father=29
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Nakamasa" #Œ¹’‡­(Kanji)
+dynasty=31
+culture = Japanese
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Nakatsuna" #Œ¹’‡j(Kanji)
+dynasty=31
+culture = Japanese
+father=31
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.6.20={
+	death="1180.6.20"
+}
+name="Yorikane" #Œ¹—ŠŒ“(Kanji)
+dynasty=31
+culture = Japanese
+father=31
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Hirotsuna" #Œ¹Lj(Kanji)
+dynasty=31
+culture = Japanese
+father=31
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Ujinobu" #@‘œM(Kanji)
+dynasty=35
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Ujikuni" #@‘œ‘(Kanji)
+dynasty=35
+culture = Japanese
+father=35
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Munesuke" #“ß{@‘(Kanji)
+dynasty=37
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Sukeyuki" #“ß{‘”V(Kanji)
+dynasty=37
+culture = Japanese
+father=37
+
+1158.1.1={
+	birth="1158.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Narimoti"
+dynasty=36
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = misguided_warrior
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Suketaka" #“ß{—^ˆê‘—²(Kanji)
+dynasty=37
+culture = Japanese
+father=37
+
+diplomacy = 8
+martial = 6
+intrigue = 7
+add_trait = tough_soldier
+add_trait = brave
+add_trait = skilled_archer
+
+1166.1.1={
+	birth="1166.1.1"
+}
+1190.10.1={
+	death="1190.10.1"
+}
+name="Yorisuke" #“ß{—Š‘(Kanji)
+dynasty=37
+culture = Japanese
+father=37
+
+1172.1.1={
+	birth="1172.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Yoshinori" #R–¼‹`”Í(Kanji)
+dynasty=122
+culture = Japanese
+father=38
+
+1141.1.1={
+	birth="1141.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Yoshitoshi" #—¢Œ©‹`r(Kanji)
+dynasty=123
+culture = Japanese
+father=38
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Yoshikane" #V“c‹`Œ“(Kanji)
+dynasty=38
+culture = Japanese
+father=38
+
+1139.1.1={
+	birth="1139.1.1"
+}
+1206.4.17={
+	death="1206.4.17"
+}
+name="Yoshisue" #¢—Ç“c‹`‹G(Kanji)
+dynasty=124
+culture = Japanese
+father=38
+
+1141.1.1={
+	birth="1141.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tsuneyoshi" #ŠzŒËŒo‹`(Kanji)
+dynasty=38
+culture = Japanese
+father=38
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Koremochi" #•ûˆÒ—p(Kanji)
+dynasty=39
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Korehisa" #•ûˆÒ‹v(Kanji)
+dynasty=39
+culture = Japanese
+father=39
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Muneyori" #Œ¹@—Š(Kanji)
+dynasty=31
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Suketaka"
+dynasty=37
+culture = Japanese
+is_clan_leader = yes
+father=358
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = flamboyant_schemer
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Kiyotsuna" #“ü]´j(Kanji)
+dynasty=125
+culture = Japanese
+
+1115.1.1={
+	birth="1115.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Tadatsuna" #‰ª•”’‰j(Kanji)
+dynasty=41
+culture = Japanese
+father=41
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Tozumi" #‘å‘º‰“Ÿ(Kanji)
+dynasty=42
+culture = Japanese
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Tadazumi" #‘å‘º’‰Ÿ(Kanji)
+dynasty=42
+culture = Japanese
+father=42
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Tsunezumi" #—L”níŸ(Kanji)
+dynasty=126
+culture = Japanese
+father=42
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Chikanaka" #‘å’†be’‡(Kanji)
+dynasty=43
+culture = Japanese
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Yoshitaka" #‘å’†b‹`—²(Kanji)
+dynasty=43
+culture = Japanese
+father=43
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Munetoshi" #’·“c’vr(Kanji)
+dynasty=44
+culture = Japanese
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1150.10.1={
+	death="1150.10.1"
+}
+name="Kagemune" #’·“cŒi’v(Kanji)
+dynasty=44
+culture = Japanese
+father=44
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1190.10.1={
+	death="1190.10.1"
+}
+name="Yukimitsu" #‘¾“csŒõ(Kanji)
+dynasty=127
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Yoshishige"
+dynasty=38
+culture = Japanese
+is_clan_leader = yes
+father=271
+
+diplomacy = 9
+martial = 8
+intrigue = 7
+add_trait = naive_appeaser
+add_trait = envious
+
+1114.1.1={
+	birth="1114.1.1"
+}
+1202.2.8={
+	death="1202.2.8"
+}
+name="Tomomasa" #¬R’©­(Kanji)
+dynasty=45
+culture = Japanese
+father=45
+
+1158.1.1={
+	birth="1158.1.1"
+}
+1238.5.15={
+	death="1238.5.15"
+}
+name="Munemasa" #’·À@­(Kanji)
+dynasty=128
+culture = Japanese
+father=45
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1241.1.2={
+	death="1241.1.2"
+}
+name="Tomomitsu" #Œ‹é’©Œõ(Kanji)
+dynasty=129
+culture = Japanese
+father=45
+
+1168.1.1={
+	birth="1168.1.1"
+}
+1254.3.14={
+	death="1254.3.14"
+}
+name="Sanenao" #Ö“¡À’¼(Kanji)
+dynasty=46
+culture = Japanese
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Shigesada" #²¡d’å(Kanji)
+dynasty=47
+culture = Japanese
+father=47
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Masayoshi" #²’|¹‹`(Kanji)
+dynasty=48
+culture = Japanese
+father=279
+
+1095.1.1={
+	birth="1095.1.1"
+}
+1147.1.1={
+	death="1147.1.1"
+}
+name="Hideyoshi" #²’|G‹`(Kanji)
+dynasty=48
+culture = Japanese
+father=48
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1226.1.17={
+	death="1226.1.17"
+}
+name="Tadahisa" #“‡’Ã’‰‹v(Kanji)
+dynasty=49
+culture = Japanese
+father=49
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1180.1.1={
+	employer = 32
+}
+1227.8.1={
+	death="1227.8.1"
+}
+name="Tadasue" #“‡’Ã’‰‹G(Kanji)
+dynasty=49
+culture = Japanese
+father=49
+
+1175.1.1={
+	birth="1175.1.1"
+}
+1180.1.1={
+	employer = 32
+}
+1221.7.5={
+	death="1221.7.5"
+}
+name="Yasukane" #·ˆóNŒ“(Kanji)
+dynasty=50
+culture = Japanese
+father=50
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Koreyoshi"
+dynasty=39
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 8
+intrigue = 7
+add_trait = tough_soldier
+
+1143.1.1={
+	birth="1143.1.1"
+}
+1199.1.1={
+	death="1199.1.1"
+}
+name="Atsumitsu" #z–K“ÖŒõ(Kanji)
+dynasty=51
+culture = Japanese
+
+1111.1.1={
+	birth="1111.1.1"
+}
+1171.1.1={
+	death="1171.1.1"
+}
+name="Morinonu"
+dynasty=51
+culture = Japanese
+father=51
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = amateurish_plotter
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Yorimori" #‘½“c—Š·(Kanji)
+dynasty=52
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Yukisada" #‘½“cs’è(Kanji)
+dynasty=52
+culture = Japanese
+father=52
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Munesada" #‚–Ø@’å(Kanji)
+dynasty=55
+culture = Japanese
+father=348
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Kiyomitsu" #Œ¹´Œõ(kanji)
+dynasty=32
+culture = Japanese
+father=399
+
+1110.6.27={
+birth="1110.6.27"
+}
+1168.8.12={
+death="1168.8.12"
+}
+name="Mitsunaga" #ˆíŒ©Œõ’·(kanji)
+dynasty=130
+culture = Japanese
+father=395
+
+1128.9.12={
+birth="1128.9.12"
+}
+1182.1.1={
+death="1182.1.1"
+}name="Tomitsu" #‰Á‰ê”ü‰“Œõ(kanji)
+dynasty=131
+culture = Japanese
+father=395
+
+1143.3.16={
+birth="1143.3.16"
+}
+1230.6.6={
+death="1230.6.6"
+}name="Yoshisada" #ˆÀ“c‹`’è(kanji)
+dynasty=132
+culture = Japanese
+father=395
+
+1134.4.6={
+birth="1134.4.6"
+}
+1194.9.5={
+death="1194.9.5"
+}name="Yoshikiyo" #Œ¹‹`´(kanji)
+dynasty=32
+culture = Japanese
+father=278
+
+1075.1.1={
+birth="1075.1.1"
+}
+1149.1.1={
+death="1149.1.1"
+}
+name="Hidehira"
+dynasty=4
+culture = Japanese
+is_clan_leader = yes
+father=307
+
+diplomacy = 5
+martial = 8
+intrigue = 7
+add_trait = grey_eminence
+add_trait = quick
+add_trait = benevolent
+
+1122.1.1={
+	birth="1122.1.1"
+}
+1187.11.30={
+	death="1187.11.30"
+}
+name="Yoritsura"
+dynasty=40
+culture = Japanese
+is_clan_leader = yes
+father=369
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = naive_appeaser
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Tadayori" #ˆêğ’‰—Š(kanji)
+dynasty=57
+culture = Japanese
+father=57
+
+1150.1.1={
+birth="1150.1.1"
+}
+1184.7.25={
+death="1184.7.25"
+}
+name="Kanenobu" #”ÂŠ_Œ“M(kanji)
+dynasty=133
+culture = Japanese
+father=57
+
+1157.1.1={
+birth="1157.1.1"
+}
+1192.1.1={
+death="1192.1.1"
+}
+name="Ariyoshi" #•“c—L‹`(kanji)
+dynasty=57
+culture = Japanese
+father=57
+
+1160.1.1={
+birth="1160.1.1"
+}
+1200.1.1={
+death="1200.1.1"
+}
+name="Nobumitsu" #•“cMŒõ(kanji)
+dynasty=57
+culture = Japanese
+father=57
+
+1162.1.1={
+birth="1162.1.1"
+}
+1248.1.1={
+death="1248.1.1"
+}
+name="Mitsunobu" #“yŠòŒõM(Kanji)
+dynasty=58
+culture = Japanese
+
+1098.1.1={
+	birth="1098.1.1"
+}
+1145.1.1={
+	death="1145.1.1"
+}
+name="Mitsuhira" #“yŠòŒõt(Kanji)
+dynasty=58
+culture = Japanese
+father=58
+
+1159.1.1={
+	birth="1159.1.1"
+}
+1206.5.4={
+	death="1206.5.4"
+}name="Chikahiro" #Œ¹eO(Kanji)
+dynasty=61
+culture = Japanese
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Ariharu" #Œ¹—L¡(Kanji)
+dynasty=61
+culture = Japanese
+father=61
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Munetsuna" #“y@j(Kanji)
+dynasty=60
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Michitsuna" #“y“¹j(Kanji)
+dynasty=60
+culture = Japanese
+father=60
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Yasutsuna"
+dynasty=41
+culture = Japanese
+is_clan_leader = yes
+father=370
+
+diplomacy = 6
+martial = 6
+intrigue = 5
+add_trait = amateurish_plotter
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Shigenao" #‰Y–ìd’¼(Kanji)
+dynasty=62
+culture = Japanese
+father=62
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Kinmoto" #‰F²ŒöŠî(Kanji)
+dynasty=63
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Kinfusa" #‰F²Œö–[(Kanji)
+dynasty=63
+culture = Japanese
+father=63
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Munetsuna" #”ª“c@j(Kanji)
+dynasty=134
+culture = Japanese
+father=549
+
+1086.1.1={
+	birth="1086.1.1"
+}
+1162.9.30={
+	death="1162.9.30"
+}
+name="Tomoie" #”ª“c’m‰Æ(Kanji)
+dynasty=134
+culture = Japanese
+father=413
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1218.1.1={
+	death="1218.1.1"
+}
+name="Naritsuna" #‰F“s‹{‹Æj(Kanji)
+dynasty=64
+culture = Japanese
+father=64
+
+1156.1.1={
+	birth="1156.1.1"
+}
+1192.4.8={
+	death="1192.4.8"
+}
+name="Yoshisada" #R–{‹`’è(Kanji)
+dynasty=65
+culture = Japanese
+father=279
+
+1118.1.1={
+	birth="1118.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Yoshiaki" #R–{‹`–¾(Kanji)
+dynasty=65
+culture = Japanese
+father=65
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Muneyoshi" #“¡Œ´@‰i(Kanji)
+dynasty=135
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}name="Muneshige" #“’ó@Œi(Kanji)
+dynasty=66
+culture = Japanese
+father=66
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}name="Yukizumi"
+dynasty=42
+culture = Japanese
+is_clan_leader = yes
+father=372
+
+diplomacy = 6
+martial = 8
+intrigue = 6
+add_trait = naive_appeaser
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Kanezane" #‰v“cŒ“À(Kanji)
+dynasty=67
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Kanetaka" #‰v“cŒ“‚(Kanji)
+dynasty=67
+culture = Japanese
+father=67
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Chikamori" #ç“ce·(Kanji)
+dynasty=77
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}name="Shigeyoshi"
+dynasty=78
+culture = Japanese
+father=716
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}name="Yoshitaka" #‰Í‰z‹`—²(Kanji)
+dynasty=79
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Shigefusa" #‰Í‰zd–[(Kanji)
+dynasty=79
+culture = Japanese
+father=70
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1185.12.5={
+	death="1185.12.5"
+}
+name="Iehiro" #¯‰ÆO(Kanji)
+dynasty=80
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Yoriie" #¯—Š‰Æ(Kanji)
+dynasty=80
+culture = Japanese
+father=71
+
+1168.1.1={
+	birth="1168.1.1"
+}
+1184.3.20={
+	death="1184.3.20"
+}name="Tsunafusa" #’Oj–[(Kanji)
+dynasty=136
+culture = Japanese
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Ienori"
+dynasty=82
+culture = Japanese
+father=708
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Chikataka"
+dynasty=43
+culture = Japanese
+is_clan_leader = yes
+father=375
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = underhanded_rogue
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1187.1.1={
+	death="1187.1.1"
+}
+name="Iemasa" #‘½‰ê’J‰Æ­(Kanji)
+dynasty=86
+culture = Japanese
+father=77
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Ietaka" #‹àq‰Æ‚(Kanji)
+dynasty=82
+culture = Japanese
+father=73
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}name="Aritsune" #–L“‡—LŒo(Kanji)
+dynasty=83
+culture = Japanese
+father=74
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Kiyoshige" #Š‹¼´d(Kanji)
+dynasty=137
+culture = Japanese
+father=74
+
+1161.1.1={
+	birth="1161.1.1"
+}
+1238.10.23={
+	death="1238.10.23"
+}name="Tokihiro"
+dynasty=84
+culture = Japanese
+father=594
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Kagetada"
+dynasty=87
+culture = Japanese
+father=675
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Kageyoshi"
+dynasty=87
+culture = Japanese
+father=435
+
+1128.1.1={
+	birth="1128.1.1"
+}
+1180.5.1={
+	employer=32
+}
+1210.5.8={
+	death="1210.5.8"
+}
+name="Nobukane" #•½MŒ“(Kanji)
+dynasty=53
+culture = Japanese
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}name="Yoshimichi"
+dynasty=89
+culture = Japanese
+
+1107.1.1={
+	birth="1107.1.1"
+}
+1167.1.1={
+	death="1167.1.1"
+}
+name="Yoshikage" #”g‘½–ì‹`Œi(Kanji)
+dynasty=89
+culture = Japanese
+father=80
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}name="Tadamune"
+dynasty=44
+culture = Japanese
+is_clan_leader = yes
+father=377
+
+diplomacy = 8
+martial = 8
+intrigue = 5
+add_trait = flamboyant_schemer
+add_trait = deceitful
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1190.10.1={
+	death="1190.10.1"
+}
+name="Aritsune" #”g‘½–ì—Lí(Kanji)
+dynasty=89
+culture = Japanese
+father=80
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Suemichi" #‹k‹G’Ê(Kanji)
+dynasty=90
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}name="Tameshige" #‹kˆ×–Î(Kanji)
+dynasty=90
+culture = Japanese
+father=81
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Sukezane" #İŠy‘À(Kanji)
+dynasty=91
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Suketsugu" #İŠy‘Œp(Kanji)
+dynasty=91
+culture = Japanese
+father=82
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}name="Kaneto" #‘å‰ÍŒ“”C(Kanji)
+dynasty=70
+culture = Japanese
+father=104
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1190.4.23={
+	death="1190.4.23"
+}
+name="Takatsune" #ˆÀ“ŒêŸP(Kanji)
+dynasty=71
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Takahide" #ˆÀ“ŒêŸG(Kanji)
+dynasty=71
+culture = Japanese
+father=105
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Takaharu" #²“¡—²¡(Kanji)
+dynasty=72
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Takaharu" #²“¡—²¡(Kanji)
+dynasty=72
+culture = Japanese
+father=110
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Masamitsu"
+dynasty=45
+culture = Japanese
+is_clan_leader = yes
+father=379
+
+diplomacy = 9
+martial = 7
+intrigue = 6
+add_trait = tough_soldier
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Harukiyo" #²“¡¡´(Kanji)
+dynasty=72
+culture = Japanese
+father=110
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Tsugunobu" #²“¡ŒpM(Kanji)
+dynasty=72
+culture = Japanese
+father=110
+
+1158.1.1={
+	birth="1158.1.1"
+}
+1185.3.22={
+	death="1185.3.22"
+}
+name="Tadanobu" #²“¡’‰M(Kanji)
+dynasty=72
+culture = Japanese
+father=110
+
+1161.1.1={
+	birth="1161.1.1"
+}
+1186.11.4={
+	death="1186.11.4"
+}
+name="Hidetoki" #‹àG(Kanji)
+dynasty=73
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Sadatoshi" #‹à’èr(Kanji)
+dynasty=73
+culture = Japanese
+father=111
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Naomoto" #‘½‹C’¼Š²(Kanji)
+dynasty=74
+culture = Japanese
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Shigemoto" #‘½‹C–ÎŠ²(Kanji)
+dynasty=74
+culture = Japanese
+father=112
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Sukemoto" #Î‰Í•Š²(Kanji)
+dynasty=138
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Michikane" #“ß‰Ï’ÊŒ“(Kanji)
+dynasty=76
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Michimune" #“ß‰Ï’Ê@(Kanji)
+dynasty=76
+culture = Japanese
+father=114
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Sanemori"
+dynasty=46
+culture = Japanese
+is_clan_leader = yes
+father=383
+
+diplomacy = 8
+martial = 8
+intrigue = 7
+add_trait = tough_soldier
+add_trait = benevolent
+add_trait = loyal
+
+1111.1.1={
+	birth="1111.1.1"
+}
+1183.6.22={
+	death="1183.6.22"
+}
+name="Akikiyo" #Œ¹Œ°´(Kanji)
+dynasty=32
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Yasunobu"
+dynasty=92
+culture = Japanese
+father=115
+
+diplomacy = 8
+martial = 7
+intrigue = 6
+add_trait = tough_soldier
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Morimune" #m‰È·@(Kanji)
+dynasty=93
+culture = Japanese
+father=116
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Hiromichi"
+dynasty=94
+culture = Japanese
+
+diplomacy = 7
+martial = 8
+intrigue = 4
+add_trait = amateurish_plotter
+
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Yukiuji"
+dynasty=94
+culture = Japanese
+father=117
+
+diplomacy = 7
+martial = 8
+intrigue = 6
+add_trait = naive_appeaser
+
+1172.1.1={
+	birth="1172.1.1"
+}
+1255.1.1={
+	death="1255.1.1"
+}
+name="Kuninao" #RŒ§‘’¼(Kanji)
+dynasty=97
+culture = Japanese
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Yorikiyo" #RŒ§—Š´(Kanji)
+dynasty=97
+culture = Japanese
+father=120
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Sueto" #”Ñ•x‹G‰“(Kanji)
+dynasty=98
+culture = Japanese
+father=281
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Akitaka" #‰H°Í—²(Kanji)
+dynasty=99
+culture = Japanese
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Shigesuke" #‰H°d‘(Kanji)
+dynasty=99
+culture = Japanese
+father=129
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Michisada"
+dynasty=47
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 6
+martial = 6
+intrigue = 5
+add_trait = amateurish_plotter
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Shigeyoshi" #“cŒû¬—Ç(Kanji)
+dynasty=100
+culture = Japanese
+father=130
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1197.10.1={
+	death="1197.10.1"
+}
+name="Naotada" #—LŒ³®’‰(Kanji)
+dynasty=106
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Mitsusuke" #—LŒ³–—S(Kanji)
+dynasty=106
+culture = Japanese
+father=136
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tsunenobu" #“ï”gŒoM(Kanji)
+dynasty=107
+culture = Japanese
+
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Tsuneie" #“ï”gŒo‰Æ(Kanji)
+dynasty=107
+culture = Japanese
+father=137
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Mitsuto" #Œ¹Œõ‰“(Kanji)
+dynasty=108
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Norisue" #Œ¹”Í‹G(Kanji)
+dynasty=108
+culture = Japanese
+father=138
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Muneyasu" #£”ö@N(Kanji)
+dynasty=109
+culture = Japanese
+father=139
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Yasutada" #…‘–N’‰(Kanji)
+dynasty=111
+culture = Japanese
+father=141
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Yorinobu" #²”Œ—ŠM(Kanji)
+dynasty=112
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Takayoshi"
+dynasty=48
+culture = Japanese
+is_clan_leader = yes
+father=385
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = underhanded_rogue
+add_trait = envious
+
+1118.1.1={
+	birth="1118.1.1"
+}
+1183.6.11={
+	death="1183.6.11"
+}
+name="Kagenobu" #²”ŒŒiM(Kanji)
+dynasty=112
+culture = Japanese
+father=142
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Morisada" #“à“¡·’è(Kanji)
+dynasty=113
+culture = Japanese
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Arimori" #“à“¡—L·(Kanji)
+dynasty=113
+culture = Japanese
+father=143
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Sadanari" #‘½X—Ç’å¬(Kanji)
+dynasty=139
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Hiromori" #‘å“àO·(Kanji)
+dynasty=114
+culture = Japanese
+father=144
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Koretsuna" #’©RˆÒj(Kanji)
+dynasty=115
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Koremura" #’©RˆÒ—W(Kanji)
+dynasty=115
+culture = Japanese
+father=145
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Iesada" #•½‰Æ’å(Kanji)
+dynasty=53
+culture = Japanese
+
+1082.1.1={
+	birth="1082.1.1"
+}
+1167.5.28={
+	death="1167.5.28"
+}
+name="Yoshimoto" #Œ¹‹`Šî(Kanji)
+dynasty=117
+culture = Japanese
+father=273
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1180.6.20={
+	death="1180.6.20"
+}
+name="Yorifusa" #Œ¹—Š–[(Kanji)
+dynasty=117
+culture = Japanese
+father=147
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tadayasu"
+dynasty=49
+culture = Japanese
+
+diplomacy = 8
+martial = 6
+intrigue = 5
+add_trait = flamboyant_schemer
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer = 32
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Shigezane"
+dynasty=32
+culture = Japanese
+father=285
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Sanemitsu" #ˆÀŒ|ÀŒõ(Kanji)
+dynasty=102
+culture = Japanese
+father=132
+
+1168.1.1={
+	birth="1168.1.1"
+}
+1185.3.24={
+	death="1185.3.24"
+}
+name="Sadatsuna" #²X–Ø’èj(Kanji)
+dynasty=141
+culture = Japanese
+father=167
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1205.4.29={
+	death="1205.4.29"
+}
+name="Tsunetaka" #²X–ØŒo‚(Kanji)
+dynasty=141
+culture = Japanese
+father=167
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1221.7.7={
+	death="1221.7.7"
+}
+name="Moritsuna" #²X–Ø·j(Kanji)
+dynasty=141
+culture = Japanese
+father=167
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1216.1.1={
+	death="1216.1.1"
+}
+name="Takatsuna" #²X–Ø‚j(Kanji)
+dynasty=141
+culture = Japanese
+father=167
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1214.12.8={
+	death="1214.12.8"
+}
+name="Yoshikiyo" #²X–Ø‹`´(Kanji)
+dynasty=141
+culture = Japanese
+father=167
+
+1167.1.1={
+	birth="1167.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1235.1.1={
+	death="1235.1.1"
+}
+name="Suenori" #Œ¹‹G‘¥(Kanji)
+dynasty=105
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Norikage" #R“c‘¥Œi(Kanji)
+dynasty=105
+culture = Japanese
+father=135
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tomomune" #ˆÉ’B’©@(Kanji)
+dynasty=147
+culture = Japanese
+
+1129.1.1={
+	birth="1129.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1199.10.23={
+	death="1199.10.23"
+}
+name="Tadakiyo"
+dynasty=5
+culture = Japanese
+is_clan_leader = yes
+father=155
+
+diplomacy = 7
+martial = 8
+intrigue = 7
+add_trait = tough_soldier
+add_trait = arbitrary
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1185.6.15={
+	death="1185.6.15"
+}
+name="Yasutomo"
+dynasty=50
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = misguided_warrior
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Tsunekane" #•½íŒ“(Kanji)
+dynasty=53
+culture = Japanese
+father=501
+
+1045.9.28={
+	birth="1045.9.28"
+}
+1126.4.4={
+	death="1126.4.4"
+}
+name="Tsunenaga"
+dynasty=53
+culture = Japanese
+father=502
+
+1024.12.18={
+	birth="1024.12.18"
+}
+1108.3.23={
+	death="1108.3.23"
+}
+name="Tsunemasa" #•½í«(Kanji)
+dynasty=53
+culture = Japanese
+father=503
+
+1010.10.24={
+	birth="1010.10.24"
+}
+1076.7.6={
+	death="1076.7.6"
+}
+name="Tadatsune"
+dynasty=53
+culture = Japanese
+father=504
+
+975.11.19={
+	birth="975.11.19"
+}
+1031.6.28={
+	death="1031.6.28"
+}
+name="Tadayori"
+dynasty=53
+culture = Japanese
+father=221
+
+930.7.16={
+	birth="930.7.16"
+}
+1019.1.25={
+	death="1019.1.25"
+}
+name="Tamemune" #ˆÉ²ˆ×@(Kanji)
+dynasty=147
+culture = Japanese
+father=499
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1221.6.3={
+	death="1221.6.3"
+}
+name="Munemura" #ˆÉ’B@‘º(Kanji)
+dynasty=147
+culture = Japanese
+father=499
+
+1167.1.1={
+	birth="1167.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1251.11.17={
+	death="1251.11.17"
+}
+name="Yorihira"
+dynasty=151
+culture = Japanese
+father=511
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Sukeyori"
+dynasty=151
+culture = Japanese
+father=507
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1228.9.24={
+	death="1228.9.24"
+}
+name="Yoshinao" #‘å—F”\’¼(Kanji)
+dynasty=152
+culture = Japanese
+father=510
+
+1172.1.29={
+	birth="1172.1.29"
+}
+1189.1.1={
+	employer = 32
+}
+1223.12.20={
+	death="1223.12.20"
+}
+name="Atsutada"
+dynasty=51
+culture = Japanese
+is_clan_leader = yes
+father=390
+
+diplomacy = 5
+martial = 6
+intrigue = 8
+add_trait = underhanded_rogue
+
+1131.1.1={
+	birth="1131.1.1"
+}
+1191.1.1={
+	death="1191.1.1"
+}
+name="Yoshinari" #‹ß“¡”\¬(Kanji)
+dynasty=153
+culture = Japanese
+father=511
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.1.1={
+	employer = 32
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Kageyori" #‹ß“¡(•“¡)Œi—Š(Kanji)
+dynasty=135
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Suketsune"
+dynasty=154
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1193.6.28={
+	death="1193.6.28"
+}
+name="Yorikage"
+dynasty=156
+culture = Japanese
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer = 9
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Nagayori"
+dynasty=156
+culture = Japanese
+father=513
+
+1177.1.1={
+	birth="1177.1.1"
+}
+1180.1.1={
+	employer = 9
+}
+1254.3.30={
+	death="1254.3.30"
+}
+name="Takatsugu" #‹e’r—²Œp(Kanji)
+dynasty=26
+culture = Japanese
+father=345
+
+1175.1.1={
+	birth="1175.1.1"
+}
+1235.11.1={
+	death="1235.11.1"
+}
+name="Hisanao" #Š—’r‹v’¼(Kanji)
+dynasty=157
+culture = Japanese
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.5.1={
+	employer = 29
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Yukitsuna"
+dynasty=52
+culture = Japanese
+is_clan_leader = yes
+father=392
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = flamboyant_schemer
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Kakomu" #¼‰YˆÍ(Kanji)
+dynasty=29
+culture = Japanese
+father=350
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Yukisada" #Š—’rs’å(Kanji)
+dynasty=157
+culture = Japanese
+father=519
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.5.1={
+	employer = 29
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Yukisue" #Š—’rs––(Kanji)
+dynasty=157
+culture = Japanese
+father=522
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1180.5.1={
+	employer = 29
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Kanetoshi" #ŠÌ•tŒ“r(Kanji)
+dynasty=158
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Kanemasu" #ŠÌ•tŒ“‰v(Kanji)
+dynasty=158
+culture = Japanese
+father=86
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Yoshitoshi" #’·@‰ä•””\r(Kanji)
+dynasty=159
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	employer=30
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Toshimune" #’·@‰ä•”r@(Kanji)
+dynasty=159
+culture = Japanese
+father=526
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=30
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Tadatoshi" #’·@‰ä•”’‰r(Kanji)
+dynasty=159
+culture = Japanese
+father=527
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=30
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Shigeuji" #’·@‰ä•”d(Kanji)
+dynasty=159
+culture = Japanese
+father=528
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1180.1.1={
+	employer=30
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Kiyomori"
+dynasty=53
+culture = Japanese
+is_clan_leader = yes
+father=148
+
+diplomacy = 4
+martial = 7
+intrigue = 7
+add_trait = grey_eminence
+add_trait = quick
+add_trait = pious
+add_trait = ambitious
+
+1118.1.1={
+	birth="1118.1.1"
+}
+1181.3.20={
+	death="1181.3.20"
+}
+name="Sakae" #‰F‹v·(Kanji)
+dynasty=160
+culture = Japanese
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1180.1.1={
+	employer=9
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Hidehide" #“¡Œ´G‰h(Kanji)
+dynasty=4
+culture = Japanese
+father=307
+
+1132.1.1={
+	birth="1132.1.1"
+}
+1180.1.1={
+	employer=4
+}
+1192.1.1={
+	death="1192.1.1"
+}
+name="Hidemoto" #“¡Œ´GŒ³(Kanji)
+dynasty=4
+culture = Japanese
+father=531
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1180.1.1={
+	employer=4
+}
+1222.1.1={
+	death="1222.1.1"
+}
+name="Chikatsuna" #V“c‹ßj(Kanji)
+dynasty=70
+culture = Japanese
+father=104
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Tadasue" #‘å‰Í’‰‹G(Kanji)
+dynasty=70
+culture = Japanese
+father=104
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Taketo" #•‘ò•”C(Kanji)
+dynasty=70
+culture = Japanese
+father=536
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Suketo" #‘å‰Í—S”C(Kanji)
+dynasty=70
+culture = Japanese
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Takeshige" #•‘ò•d(Kanji)
+dynasty=70
+culture = Japanese
+father=535
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Koreyasu" #—R—˜ˆÒˆÀ(Kanji)
+dynasty=161
+culture = Japanese
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Korehisa"
+dynasty=161
+culture = Japanese
+father=168
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tadazumi"
+dynasty=54
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = misguided_warrior
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Kiyohira" #“¡Œ´´t(Kanji)
+dynasty=4
+culture = Japanese
+
+1056.1.1={
+	birth="1056.1.1"
+}
+1128.8.10={
+	death="1128.8.10"
+}
+name="Kiyotsuna" #”ó’Ü´j(Kanji)
+dynasty=4
+culture = Japanese
+father=540
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Toshihira" #”ó’Ürt(Kanji)
+dynasty=4
+culture = Japanese
+father=541
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Morohira" #”ó’Ütt(Kanji)
+dynasty=4
+culture = Japanese
+father=542
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Kanehira" #”ó’ÜŒ“t(Kanji)
+dynasty=4
+culture = Japanese
+father=542
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Tadahira" #”ó’Ü’‰t(Kanji)
+dynasty=4
+culture = Japanese
+father=542
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Suehira" #”ó’Ü‹Gt(Kanji)
+dynasty=4
+culture = Japanese
+father=541
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Tsunehira" #”ó’ÜŒot(Kanji)
+dynasty=4
+culture = Japanese
+father=546
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Mitsuharu" #¬“cŒõ¡(Kanji)
+dynasty=17
+culture = Japanese
+father=327
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Soen" #“¡Œ´@‰~(Kanji)
+dynasty=135
+culture = Japanese
+
+1033.1.1={
+	birth="1033.1.1"
+}
+1111.11.20={
+	death="1111.11.20"
+}
+name="Muneie" 
+dynasty=55
+culture = Japanese
+is_clan_leader = yes
+father=394
+
+diplomacy = 8
+martial = 6
+intrigue = 6
+add_trait = tough_soldier
+
+1147.1.1={
+	birth="1147.1.1"
+}
+1207.1.1={
+	death="1207.1.1"
+}
+name="Kimiyori" #‰ÆŒö—Š(Kanji)
+dynasty=163
+culture = Japanese
+father=64
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1224.9.29={
+	death="1224.9.29"
+}
+name="Munefusa" #’†Œ´@–[(Kanji)
+dynasty=64
+culture = Japanese
+father=549
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Nobufusa" #éˆäM–[(Kanji)
+dynasty=164
+culture = Japanese
+father=551
+
+1156.1.1={
+	birth="1156.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1234.8.27={
+	death="1234.8.27"
+}
+name="Takachika" #–F‰ê‚e(Kanji)
+dynasty=165
+culture = Japanese
+
+1137.1.1={
+	birth="1137.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1197.1.1={
+	death="1197.1.1"
+}
+name="Masashige" #‰vq³d(Kanji)
+dynasty=166
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Koremoto" #‰–’JˆÒŠî(Kanji)
+dynasty=167
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Koreyori" #‰–’JˆÒ—Š(Kanji)
+dynasty=167
+culture = Japanese
+father=555
+
+1126.1.1={
+	birth="1126.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Korehiro" #‰–’JˆÒL(Kanji)
+dynasty=167
+culture = Japanese
+father=555
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Masayoshi" #‰–’J³‹`(Kanji)
+dynasty=167
+culture = Japanese
+father=556
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tomoyoshi" #‰–’J’©‹`(Kanji)
+dynasty=167
+culture = Japanese
+father=556
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1180.1.1={
+	employer=64
+}
+1212.1.1={
+	death="1212.1.1"
+}
+name="Mochihito"
+dynasty=56
+culture = Imperial_Family
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 2
+intrigue = 7
+add_trait = intricate_webweaver
+add_trait = scholar
+add_trait = ambitious
+add_trait = proud
+add_trait = patient
+add_trait = stressed
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1180.6.20={
+	death="1180.6.20"
+}
+name="Yasutsuna" #‘«—˜Nj(Kanji)
+dynasty=7
+culture = Japanese
+father=7
+
+1156.1.1={
+	birth="1156.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Aritsuna" #‘«—˜—Lj(Kanji)
+dynasty=7
+culture = Japanese
+father=310
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Mototsuna" #²–ìŠîj(Kanji)
+dynasty=168
+culture = Japanese
+father=561
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1235.1.1={
+	death="1235.1.1"
+}
+name="Aritsuna" #‹Ë¶—Š’‰(Kanji)
+dynasty=169
+culture = Japanese
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=7
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Yukiyoshi" #‰º‰Í•Ós‹`(Kanji)
+dynasty=171
+culture = Japanese
+father=379
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=45
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Yukihira" #‰º‰Í•Ós•½(Kanji)
+dynasty=171
+culture = Japanese
+father=564
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=45
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Masayoshi" #‰º‰Í•Ó­‹`(Kanji)
+dynasty=171
+culture = Japanese
+father=564
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1180.1.1={
+	employer=45
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Shigeyuki" #‘å‰Í•Óds(Kanji)
+dynasty=170
+culture = Japanese
+father=379
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1180.1.1={
+	employer=45
+}
+1202.1.1={
+	death="1202.1.1"
+}
+name="Hiroyuki" #‘å‰Í•ÓLs(Kanji)
+dynasty=170
+culture = Japanese
+father=567
+
+1168.1.1={
+	birth="1168.1.1"
+}
+1180.1.1={
+	employer=45
+}
+1228.1.1={
+	death="1228.1.1"
+}
+name="Yukimoto" #‘å‰Í•ÓsŒ³(Kanji)
+dynasty=170
+culture = Japanese
+father=567
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1180.1.1={
+	employer=45
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Nobuyoshi"
+dynasty=57
+culture = Japanese
+is_clan_leader = yes
+father=395
+
+diplomacy = 7
+martial = 8
+intrigue = 8
+add_trait = underhanded_rogue
+
+1128.9.11={
+	birth="1128.9.11"
+}
+1186.3.31={
+	death="1186.3.31"
+}
+name="Yoshisue" #²’|‹`‹G(Kanji)
+dynasty=48
+culture = Japanese
+father=385
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Masanari" #²’|¹¬(Kanji)
+dynasty=48
+culture = Japanese
+father=385
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Yoshimune" #²’|‹`@(Kanji)
+dynasty=48
+culture = Japanese
+father=385
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Yoshimichi" #ŒË‘º”\’Ê(Kanji)
+dynasty=76
+culture = Japanese
+father=458
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	employer=114
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Hiroshige" #Š‹RLd(Kanji)
+dynasty=22
+culture = Japanese
+father=340
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Chikahide" #ˆÀ“Œˆ¤G(Kanji)
+dynasty=71
+culture = Japanese
+father=447
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Mitsuyuki" #“ì•”Œõs(Kanji)
+dynasty=172
+culture = Japanese
+father=397
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1236.4.25={
+	death="1236.4.25"
+}
+name="Hiromoto"
+dynasty=21
+culture = Japanese
+father=21
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1185.3.22={
+	death="1185.3.22"
+}
+name="Yorimoto" #­“‡—ŠŠ²(Kanji)
+dynasty=21
+culture = Japanese
+father=337
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Nagakiyo" #¬Š}Œ´’·´(Kanji)
+dynasty=174
+culture = Japanese
+father=397
+
+1162.4.20={
+	birth="1162.4.20"
+}
+1242.8.12={
+	death="1242.8.12"
+}
+name="Mitsunaga"
+dynasty=58
+culture = Japanese
+is_clan_leader = yes
+father=404
+
+diplomacy = 7
+martial = 7
+intrigue = 7
+add_trait = flamboyant_schemer
+
+1128.9.11={
+	birth="1128.9.11"
+}
+1186.3.31={
+	death="1186.3.31"
+}
+name="Nagatsune" #¬Š}Œ´’·Œo(Kanji)
+dynasty=174
+culture = Japanese
+father=579
+
+1179.1.1={
+	birth="1179.1.1"
+}
+1247.1.1={
+	death="1247.1.1"
+}
+name="Mitsutaka" #‚—œŒõ‚(Kanji)
+dynasty=175
+culture = Japanese
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer = 25
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Yoritaka" #‚—œ—Š‚(Kanji)
+dynasty=175
+culture = Japanese
+father=581
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1180.1.1={
+	employer = 25
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Tomoshige" #”ª“c’md(Kanji)
+dynasty=134
+culture = Japanese
+father=414
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Takayuki" #Šâé—²s(Kanji)
+dynasty=18
+culture = Japanese
+father=330
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Tamemichi" #O‰Yˆ×’Ê(Kanji)
+dynasty=178
+culture = Japanese
+father=228
+
+998.1.1={
+	birth="998.1.1"
+}
+1083.4.3={
+	death="1083.4.3"
+}name="Tametsugu" #O‰Yˆ×Œp(Kanji)
+dynasty=178
+culture = Japanese
+father=585
+
+1045.1.1={
+	birth="1045.1.1"
+}
+1110.1.1={
+	death="1110.1.1"
+}name="Yoshitsugu" #O‰Y‹`Œp(Kanji)
+dynasty=178
+culture = Japanese
+father=586
+
+1070.1.1={
+	birth="1070.1.1"
+}
+1130.1.1={
+	death="1130.1.1"
+}name="Yoshiaki"
+dynasty=178
+culture = Japanese
+father=587
+
+1092.1.1={
+	birth="1092.1.1"
+}
+1180.9.18={
+	death="1180.9.18"
+}name="Yoshitsura"
+dynasty=178
+culture = Japanese
+father=588
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1203.1.1={
+	death="1203.1.1"
+}name="Akimichi"
+dynasty=59
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 8
+martial = 5
+intrigue = 7
+add_trait = misguided_warrior
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Moritsura"
+dynasty=178
+culture = Japanese
+father=589
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}name="Yoshitane"
+dynasty=119
+culture = Japanese
+father=306
+
+1180.1.1={
+	birth="1180.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Tameyori"
+dynasty=180
+culture = Japanese
+father=264
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1215.1.1={
+	death="1215.1.1"
+}name="Ietomo"
+dynasty=180
+culture = Japanese
+father=592
+
+1171.1.1={
+	birth="1171.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1231.1.1={
+	death="1231.1.1"
+}name="Tokishige"
+dynasty=84
+culture = Japanese
+father=595
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Tsunetaka"
+dynasty=84
+culture = Japanese
+father=596
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1130.1.1={
+	death="1130.1.1"
+}
+name="Suketaka"
+dynasty=84
+culture = Japanese
+father=635
+
+1060.1.1={
+	birth="1060.1.1"
+}
+1120.1.1={
+	death="1120.1.1"
+}
+name="Sukehiro"
+dynasty=181
+culture = Japanese
+father=596
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Kanetsuna"
+dynasty=181
+culture = Japanese
+father=597
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=75
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Yoshisue"
+dynasty=181
+culture = Japanese
+father=598
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1180.1.1={
+	employer=75
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Hironaga"
+dynasty=6
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = amateurish_plotter
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1182.1.1={
+	death="1182.1.1"
+}
+name="Nobutsuna"
+dynasty=60
+culture = Japanese
+is_clan_leader = yes
+father=408
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = naive_appeaser
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Yoshimichi"
+dynasty=76
+culture = Japanese
+father=458
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}name="Kagemichi"
+dynasty=76
+culture = Japanese
+father=459
+
+1175.1.1={
+	birth="1175.1.1"
+}
+1235.1.1={
+	death="1235.1.1"
+}name="Nagamoto"
+dynasty=184
+culture = Japanese
+father=455
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.1.1={
+	employer=112
+}
+1215.1.1={
+	death="1215.1.1"
+}name="Tadamoto"
+dynasty=74
+culture = Japanese
+father=455
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1180.1.1={
+	employer=112
+}
+1210.1.1={
+	death="1210.1.1"
+}name="Hiromoto"
+dynasty=74
+culture = Japanese
+father=455
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1180.1.1={
+	employer=112
+}
+1215.1.1={
+	death="1215.1.1"
+}name="Tsunehide"
+dynasty=3
+culture = Japanese
+father=305
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1240.1.1={
+	death="1240.1.1"
+}
+name="Tanemori"
+dynasty=216
+culture = Japanese
+father=3
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tanenobu"
+dynasty=250
+culture = Japanese
+father=3
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Tanemichi"
+dynasty=392
+culture = Japanese
+father=3
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tsunefusa"
+dynasty=3
+culture = Japanese
+father=501
+
+1070.1.1={
+	birth="1070.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Chikaharu"
+dynasty=61
+culture = Japanese
+father=406
+
+diplomacy = 6
+martial = 8
+intrigue = 6
+add_trait = underhanded_rogue
+
+1116.1.1={
+	birth="1116.1.1"
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Tsunemoto" #ˆ¾”ÑŒ´íŠî(Kanji)
+dynasty=393
+culture = Japanese
+father=609
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Tsunemune"
+dynasty=349
+culture = Japanese
+father=609
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Tsunehira"
+dynasty=350
+culture = Japanese
+father=500
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Tsunemoto"
+dynasty=350
+culture = Japanese
+father=612
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Tsuneharu"
+dynasty=350
+culture = Japanese
+father=613
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1189.6.15={
+	death="1189.6.15"
+}
+name="Tameharu"
+dynasty=350
+culture = Japanese
+father=613
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1189.6.15={
+	death="1189.6.15"
+}
+name="Tsunetsugu"
+dynasty=349
+culture = Japanese
+father=611
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Tsunetomo"
+dynasty=349
+culture = Japanese
+father=616
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Kiyotsune"
+dynasty=349
+culture = Japanese
+father=616
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Tsunenao"
+dynasty=349
+culture = Japanese
+father=616
+
+1164.1.1={
+	birth="1164.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Shigeto"
+dynasty=62
+culture = Japanese
+is_clan_leader = yes
+father=490
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = flamboyant_schemer
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Tsuneyoshi"
+dynasty=349
+culture = Japanese
+father=611
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Moritsune"
+dynasty=349
+culture = Japanese
+father=620
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Moritsune"
+dynasty=393
+culture = Japanese
+father=611
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Moritsune"
+dynasty=393
+culture = Japanese
+father=622
+
+1163.1.1={
+	birth="1163.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Moritsune"
+dynasty=393
+culture = Japanese
+father=622
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1180.5.1={
+	employer=68
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Yoritsugu"
+dynasty=23
+culture = Japanese
+father=341
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1188.1.1={
+	death="1188.1.1"
+}
+name="Naotane"
+dynasty=23
+culture = Japanese
+father=341
+
+1126.1.1={
+	birth="1126.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Naotsune"
+dynasty=23
+culture = Japanese
+father=626
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tsuneshige"
+dynasty=23
+culture = Japanese
+father=341
+
+1123.1.1={
+	birth="1123.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Tsunekiyo"
+dynasty=119
+culture = Japanese
+father=341
+
+1127.1.1={
+	birth="1127.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Kinmichi"
+dynasty=63
+culture = Japanese
+is_clan_leader = yes
+father=411
+
+diplomacy = 7
+martial = 5
+intrigue = 5
+add_trait = amateurish_plotter
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Sadatsune"
+dynasty=119
+culture = Japanese
+father=629
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Tsuneshige"
+dynasty=23
+culture = Japanese
+father=341
+
+1122.1.1={
+	birth="1122.1.1"
+}
+1180.11.12={
+	death="1180.11.12"
+}
+name="Tsuneharu"
+dynasty=23
+culture = Japanese
+father=501
+
+1070.1.1={
+	birth="1070.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Shigetsune"
+dynasty=23
+culture = Japanese
+father=631
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.11.12={
+	death="1180.11.12"
+}
+name="Yoritsune"
+dynasty=23
+culture = Japanese
+father=631
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.11.12={
+	death="1180.11.12"
+}
+name="Yoshitaka"
+dynasty=84
+culture = Japanese
+#father=635
+
+1040.1.1={
+	birth="1040.1.1"
+}
+1100.1.1={
+	death="1100.1.1"
+}
+name="Yoshikane"
+dynasty=84
+culture = Japanese
+father=635
+
+1065.1.1={
+	birth="1065.1.1"
+}
+1125.1.1={
+	death="1125.1.1"
+}
+name="Morikane"
+dynasty=84
+culture = Japanese
+father=636
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Suekane"
+dynasty=84
+culture = Japanese
+father=637
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Suesada"
+dynasty=426
+culture = Japanese
+father=638
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	employer=75
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Tomotsuna"
+dynasty=64
+culture = Japanese
+is_clan_leader = yes
+father=413
+
+diplomacy = 8
+martial = 6
+intrigue = 6
+add_trait = misguided_warrior
+
+1122.1.1={
+	birth="1122.1.1"
+}
+1204.9.1={
+	death="1204.9.1"
+}
+name="Yoshitada"
+dynasty=189
+culture = Japanese
+father=639
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Yoshihisa"
+dynasty=189
+culture = Japanese
+father=640
+
+1170.1.1={
+	birth="1170.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Kagemasu"
+dynasty=418
+culture = Japanese
+#father=639
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tsunekage"
+dynasty=23
+culture = Japanese
+father=341
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1165.1.1={
+	death="1165.1.1"
+}
+name="Tsunenaka"
+dynasty=23
+culture = Japanese
+father=643
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.1.1 = {
+	employer = 87
+}
+1181.1.1={
+	death="1181.1.1"
+}
+name="Tsuneaki"
+dynasty=23
+culture = Japanese
+father=643
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1 = {
+	employer = 87
+}
+1181.1.1={
+	death="1181.1.1"
+}
+name="Yoshizumi"
+dynasty=178
+culture = Japanese
+father=588
+
+1127.1.1={
+	birth="1127.1.1"
+}
+1200.2.9={
+	death="1200.2.9"
+}name="Yoshimura"
+dynasty=178
+culture = Japanese
+father=646
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1239.12.31={
+	death="1239.12.31"
+}name="Yoshimune"
+dynasty=178
+culture = Japanese
+father=588
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}name="Yoshimori"
+dynasty=420
+culture = Japanese
+father=648
+
+1147.1.1={
+	birth="1147.1.1"
+}
+1180.1.1={
+	employer=588
+}
+1213.5.24={
+	death="1213.5.24"
+}name="Yoshitsune"
+dynasty=65
+culture = Japanese
+is_clan_leader = yes
+father=416
+
+diplomacy = 7
+martial = 6
+intrigue = 8
+add_trait = tough_soldier
+
+1143.1.1={
+	birth="1143.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Yoshishige"
+dynasty=420
+culture = Japanese
+father=648
+
+1148.1.1={
+	birth="1148.1.1"
+}
+1180.1.1={
+	employer=588
+}
+1210.1.1={
+	death="1210.1.1"
+}name="Munezane"
+dynasty=420
+culture = Japanese
+father=648
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=588
+}
+1215.1.1={
+	death="1215.1.1"
+}name="Yoshinaga"
+dynasty=420
+culture = Japanese
+father=648
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1180.1.1={
+	employer=588
+}
+1208.1.1={
+	death="1208.1.1"
+}name="Sanehira"
+dynasty=421
+culture = Japanese
+father=658
+
+1121.1.1={
+	birth="1121.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}name="Tohira"
+dynasty=196
+culture = Japanese
+father=653
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1237.1.1={
+	death="1237.1.1"
+}name="Yoritaka"
+dynasty=422
+culture = Japanese
+father=504
+
+970.1.1={
+	birth="970.1.1"
+}
+1040.1.1={
+	death="1040.1.1"
+}
+name="Tsuneto"
+dynasty=422
+culture = Japanese
+father=655
+
+1010.1.1={
+	birth="1010.1.1"
+}
+1070.1.1={
+	death="1070.1.1"
+}
+name="Tsunemune"
+dynasty=422
+culture = Japanese
+father=656
+
+1050.1.1={
+	birth="1050.1.1"
+}
+1110.1.1={
+	death="1110.1.1"
+}
+name="Munehira"
+dynasty=422
+culture = Japanese
+father=656
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Muneto"
+dynasty=423
+culture = Japanese
+father=658
+
+1128.1.1={
+	birth="1128.1.1"
+}
+1188.1.1={
+	death="1188.1.1"
+}
+name="Muneshige"
+dynasty=66
+culture = Japanese
+is_clan_leader = yes
+father=418
+
+diplomacy = 7
+martial = 6
+intrigue = 4
+add_trait = amateurish_plotter
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Yoshikiyo"
+dynasty=423
+culture = Japanese
+father=659
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1213.5.24={
+	death="1213.5.24"
+}
+name="Tomohira"
+dynasty=421
+culture = Japanese
+father=658
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Kagehisa"
+dynasty=87
+culture = Japanese
+father=435
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Kagetokki"
+dynasty=424
+culture = Japanese
+father=664
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer = 588
+}
+1200.2.6={
+	death="1200.2.6"
+}
+name="Kagekiyo"
+dynasty=425
+culture = Japanese
+father=672
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Tomokage"
+dynasty=424
+culture = Japanese
+father=664
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1213.5.24={
+	death="1213.5.24"
+}
+name="Kagesue"
+dynasty=424
+culture = Japanese
+father=663
+
+1162.1.1={
+	birth="1162.1.1"
+}
+1200.2.6={
+	death="1200.2.6"
+}
+name="Kagetaka"
+dynasty=424
+culture = Japanese
+father=663
+
+1164.1.1={
+	birth="1164.1.1"
+}
+1200.2.6={
+	death="1200.2.6"
+}
+name="Kagenari"
+dynasty=425
+culture = Japanese
+father=669
+
+1040.1.1={
+	birth="1040.1.1"
+}
+1100.1.1={
+	death="1100.1.1"
+}name="Akina"
+dynasty=425
+culture = Japanese
+father=228
+
+1000.1.1={
+	birth="1000.1.1"
+}
+1055.1.1={
+	death="1055.1.1"
+}
+name="Kanehide"
+dynasty=67
+culture = Japanese
+is_clan_leader = yes
+father=420
+
+diplomacy = 9
+martial = 5
+intrigue = 7
+add_trait = misguided_warrior
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Kagemichi"
+dynasty=425
+culture = Japanese
+father=669
+
+1020.1.1={
+	birth="1020.1.1"
+}
+1080.1.1={
+	death="1080.1.1"
+}
+name="Kagehisa"
+dynasty=425
+culture = Japanese
+father=670
+
+1050.1.1={
+	birth="1050.1.1"
+}
+1110.1.1={
+	death="1110.1.1"
+}
+name="Kagenaga"
+dynasty=425
+culture = Japanese
+father=671
+
+1080.1.1={
+	birth="1080.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}
+name="Suehisa"
+dynasty=426
+culture = Japanese
+father=639
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Kagemasa"
+dynasty=425
+culture = Japanese
+father=668
+
+1069.1.1={
+	birth="1069.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}name="Kagetsune"
+dynasty=425
+culture = Japanese
+father=674
+
+1087.1.1={
+	birth="1087.1.1"
+}
+1140.1.1={
+	death="1140.1.1"
+}name="Toshishige"
+dynasty=426
+culture = Japanese
+father=639
+
+1163.1.1={
+	birth="1163.1.1"
+}
+1181.1.1={
+	death="1181.1.1"
+}name="Yoshisue"
+dynasty=426
+culture = Japanese
+father=639
+
+1164.1.1={
+	birth="1164.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}name="Yoshikage"
+dynasty=89
+culture = Japanese
+father=438
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Tadatsuna"
+dynasty=89
+culture = Japanese
+father=438
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1212.1.1={
+	death="1212.1.1"
+}
+name="Chikatsuna"
+dynasty=77
+culture = Japanese
+is_clan_leader = yes
+father=422
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = flamboyant_schemer
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.10.17={
+	death="1180.10.17"
+}
+name="Kagehiro"
+dynasty=368
+culture = Japanese
+father=675
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}name="Tamemune"
+dynasty=368
+culture = Japanese
+father=680
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer=78
+}
+1205.1.1={
+	death="1205.1.1"
+}name="Sadakage"
+dynasty=368
+culture = Japanese
+father=680
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=78
+}
+1210.1.1={
+	death="1210.1.1"
+}name="Tsunetoshi"
+dynasty=427
+culture = Japanese
+#father=680
+
+1137.1.1={
+	birth="1137.1.1"
+}
+1180.1.1={
+	employer=78
+}
+1225.7.27={
+	death="1225.7.27"
+}name="Sukechika"
+dynasty=155
+culture = Japanese
+#father=680
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1180.1.1={
+	employer=79
+}
+1182.1.1={
+	death="1182.1.1"
+}name="Sukekiyo"
+dynasty=155
+culture = Japanese
+father=684
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1180.1.1={
+	employer=79
+}
+1184.1.1={
+	death="1184.1.1"
+}name="Sukenobu"
+dynasty=428
+culture = Japanese
+#father=684
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer=79
+}
+1205.1.1={
+	death="1205.1.1"
+}name="Suketsuna"
+dynasty=338
+culture = Japanese
+father=686
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1180.1.1={
+	employer=79
+}
+1225.1.1={
+	death="1225.1.1"
+}name="Tokage"
+dynasty=338
+culture = Japanese
+#father=686
+
+1136.1.1={
+	birth="1136.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1196.1.1={
+	death="1196.1.1"
+}name="Masakage"
+dynasty=338
+culture = Japanese
+father=688
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Shigetada"
+dynasty=78
+culture = Japanese
+is_clan_leader = yes
+father=423
+
+diplomacy = 6
+martial = 6
+intrigue = 8
+add_trait = tough_soldier
+add_trait = brave
+add_trait = benevolent
+
+1164.1.1={
+	birth="1164.1.1"
+}
+1205.7.10={
+	death="1205.7.10"
+}
+name="Morinaga"
+dynasty=429
+culture = Japanese
+#father=688
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1200.6.9={
+	death="1200.6.9"
+}name="Kagemori"
+dynasty=429
+culture = Japanese
+father=690
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=32
+}
+1248.6.11={
+	death="1248.6.11"
+}name="Shigekuni"
+dynasty=430
+culture = Japanese
+father=696
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=75
+}
+1220.1.1={
+	death="1220.1.1"
+}name="Masatsune"
+dynasty=431
+culture = Japanese
+father=504
+
+990.1.1={
+	birth="990.1.1"
+}
+1050.1.1={
+	death="1050.1.1"
+}
+name="Takemoto"
+dynasty=431
+culture = Japanese
+father=693
+
+1010.1.1={
+	birth="1010.1.1"
+}
+1090.1.1={
+	death="1090.1.1"
+}
+name="Motoie"
+dynasty=431
+culture = Japanese
+father=694
+
+1070.1.1={
+	birth="1070.1.1"
+}
+1130.1.1={
+	death="1130.1.1"
+}
+name="Shigeie"
+dynasty=431
+culture = Japanese
+father=695
+
+1110.1.1={
+	birth="1110.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}
+name="Taketsune"
+dynasty=431
+culture = Japanese
+father=693
+
+995.1.1={
+	birth="995.1.1"
+}
+1075.1.1={
+	death="1075.1.1"
+}
+name="Tsuneie"
+dynasty=83
+culture = Japanese
+father=697
+
+1040.1.1={
+	birth="1040.1.1"
+}
+1110.1.1={
+	death="1110.1.1"
+}
+name="Yasuie"
+dynasty=83
+culture = Japanese
+father=698
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Toshitsuna"
+dynasty=7
+culture = Japanese
+is_clan_leader = yes
+father=310
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = naive_appeaser
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1183.8.1={
+	death="1183.8.1"
+}
+name="Shigeyori"
+dynasty=79
+culture = Japanese
+is_clan_leader = yes
+father=713
+
+diplomacy = 8
+martial = 7
+intrigue = 7
+add_trait = tough_soldier
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1185.12.5={
+	death="1185.12.5"
+}
+name="Shigenaga"
+dynasty=374
+culture = Japanese
+father=703
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	employer=74
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Taketsuna"
+dynasty=431
+culture = Japanese
+father=694
+
+1030.1.1={
+	birth="1030.1.1"
+}
+1100.1.1={
+	death="1100.1.1"
+}
+name="Shigetsuna"
+dynasty=431
+culture = Japanese
+father=701
+
+1060.1.1={
+	birth="1060.1.1"
+}
+1120.1.1={
+	death="1120.1.1"
+}
+name="Shigetsugu"
+dynasty=374
+culture = Japanese
+father=702
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Tomoto"
+dynasty=432
+culture = Japanese
+#father=703
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	employer=74
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Tanemune"
+dynasty=53
+culture = Japanese
+father=503
+
+1010.1.1={
+	birth="1010.1.1"
+}
+1090.1.1={
+	death="1090.1.1"
+}
+name="Motomune"
+dynasty=53
+culture = Japanese
+father=705
+
+1030.1.1={
+	birth="1030.1.1"
+}
+1100.1.1={
+	death="1100.1.1"
+}
+name="Yorito"
+dynasty=433
+culture = Japanese
+father=706
+
+1070.1.1={
+	birth="1070.1.1"
+}
+1120.1.1={
+	death="1120.1.1"
+}
+name="Yoriie"
+dynasty=433
+culture = Japanese
+father=707
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Ietsugu"
+dynasty=433
+culture = Japanese
+father=709
+
+1120.1.1={
+	birth="1120.1.1"
+}
+1180.1.1={
+	death="1180.1.1"
+}
+name="Ienaga"
+dynasty=80
+culture = Japanese
+is_clan_leader = yes
+father=426
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = amateurish_plotter
+
+1146.1.1={
+	birth="1146.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Ienobu"
+dynasty=434
+culture = Japanese
+father=709
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Nobuhira"
+dynasty=434
+culture = Japanese
+father=710
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Shigetaka"
+dynasty=79
+culture = Japanese
+father=702
+
+1088.1.1={
+	birth="1088.1.1"
+}
+1145.1.1={
+	death="1145.1.1"
+}
+name="Yoshitaka"
+dynasty=79
+culture = Japanese
+father=712
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Shigetsune"
+dynasty=79
+culture = Japanese
+father=713
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Shigetoki"
+dynasty=79
+culture = Japanese
+father=70
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1215.1.1={
+	death="1215.1.1"
+}
+name="Shigehiro"
+dynasty=431
+culture = Japanese
+father=702
+
+1085.1.1={
+	birth="1085.1.1"
+}
+1155.1.1={
+	death="1155.1.1"
+}
+name="Arishige"
+dynasty=268
+culture = Japanese
+father=716
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}name="Hironaga"
+dynasty=80
+culture = Japanese
+father=426
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tadaie"
+dynasty=80
+culture = Japanese
+father=426
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1222.1.1={
+	death="1222.1.1"
+}
+name="Sanemitsu"
+dynasty=81
+culture = Japanese
+is_clan_leader = yes
+father=428
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = naive_appeaser
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Takaie"
+dynasty=80
+culture = Japanese
+father=426
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1235.1.1={
+	death="1235.1.1"
+}
+name="Hirokata"
+dynasty=80
+culture = Japanese
+father=426
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Koremasa"
+dynasty=53
+culture = Japanese
+father=216
+
+935.1.1={
+	birth="935.1.1"
+}
+995.1.1={
+	death="995.1.1"
+}name="Koretoki"
+dynasty=53
+culture = Japanese
+father=722
+
+965.1.1={
+	birth="965.1.1"
+}
+1030.1.1={
+	death="1030.1.1"
+}name="Naokata"
+dynasty=120
+culture = Japanese
+father=723
+
+985.1.1={
+	birth="985.1.1"
+}
+1060.1.1={
+	death="1060.1.1"
+}name="Masanori"
+dynasty=120
+culture = Japanese
+father=724
+
+1035.1.1={
+	birth="1035.1.1"
+}
+1100.1.1={
+	death="1100.1.1"
+}name="Tokiie"
+dynasty=120
+culture = Japanese
+father=725
+
+1060.1.1={
+	birth="1060.1.1"
+}
+1120.1.1={
+	death="1120.1.1"
+}name="Tokikata"
+dynasty=120
+culture = Japanese
+father=726
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1170.1.1={
+	death="1170.1.1"
+}name="Koremata"
+dynasty=120
+culture = Japanese
+father=724
+
+1030.1.1={
+	birth="1030.1.1"
+}
+1090.1.1={
+	death="1090.1.1"
+}name="Morikata"
+dynasty=120
+culture = Japanese
+father=728
+
+1060.1.1={
+	birth="1060.1.1"
+}
+1120.1.1={
+	death="1120.1.1"
+}name="Ietada"
+dynasty=82
+culture = Japanese
+is_clan_leader = yes
+father=429
+
+diplomacy = 8
+martial = 7
+intrigue = 6
+add_trait = misguided_warrior
+
+1138.1.1={
+	birth="1138.1.1"
+}
+1216.3.6={
+	death="1216.3.6"
+}
+name="Naosada"
+dynasty=435
+culture = Japanese
+father=729
+
+1095.1.1={
+	birth="1095.1.1"
+}
+1153.3.18={
+	death="1153.3.18"
+}name="Naozane"
+dynasty=435
+culture = Japanese
+father=730
+
+1141.3.24={
+	birth="1141.3.24"
+}
+1180.1.1={
+	employer=72
+}
+1207.9.27={
+	death="1207.9.27"
+}name="Sukehiro"
+dynasty=181
+culture = Japanese
+father=734
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	employer=72
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Suketsuna"
+dynasty=181
+culture = Japanese
+father=732
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.1.1={
+	employer=72
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Suketaka"
+dynasty=181
+culture = Japanese
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1160.1.1={
+	death="1160.1.1"
+}
+name="Sukezane"
+dynasty=181
+culture = Japanese
+father=734
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Suketsuna"
+dynasty=85
+culture = Japanese
+father=737
+
+1100.1.1={
+	birth="1100.1.1"
+}
+1170.11.1={
+	death="1170.11.1"
+}
+name="Masaie"
+dynasty=85
+culture = Japanese
+father=738
+
+1070.1.1={
+	birth="1070.1.1"
+}
+1140.11.1={
+	death="1140.11.1"
+}
+name="Tadakane"
+dynasty=85
+culture = Japanese
+#father=738
+
+1030.1.1={
+	birth="1030.1.1"
+}
+1100.1.1={
+	death="1100.1.1"
+}
+name="Masayuki"
+dynasty=85
+culture = Japanese
+father=737
+
+1105.1.1={
+	birth="1105.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Kiyomoto"
+dynasty=83
+culture = Japanese
+father=699
+
+diplomacy = 6
+martial = 9
+intrigue = 6
+add_trait = underhanded_rogue
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Yukiyasu"
+dynasty=436
+culture = Japanese
+father=739
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1180.1.1={
+	employer=76
+}
+1196.1.1={
+	death="1196.1.1"
+}
+name="Tadatsuna"
+dynasty=437
+culture = Japanese
+father=738
+
+1068.1.1={
+	birth="1068.1.1"
+}
+1125.1.1={
+	death="1125.1.1"
+}
+name="Yukitada"
+dynasty=437
+culture = Japanese
+father=741
+
+1095.1.1={
+	birth="1095.1.1"
+}
+1175.1.1={
+	death="1175.1.1"
+}
+name="Tadazumi"
+dynasty=437
+culture = Japanese
+father=742
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1180.1.1={
+	employer=76
+}
+1197.1.1={
+	death="1197.1.1"
+}
+name="Motomichi"
+dynasty=438
+culture = Japanese
+father=745
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1= {
+	employer=85
+}
+1233.7.8={
+	death="1233.7.8"
+}
+name="Motozane"
+dynasty=438
+culture = Japanese
+father=746
+
+1143.1.1={
+	birth="1143.1.1"
+}
+1166.8.23={
+	death="1166.8.23"
+}
+name="Tadamichi"
+dynasty=135
+culture = Japanese
+father=747
+
+1097.3.15={
+	birth="1097.3.15"
+}
+1164.3.13={
+	death="1164.3.13"
+}
+name="Tadazane"
+dynasty=135
+culture = Japanese
+#father=747
+
+1078.1.1={
+	birth="1078.1.1"
+}
+1162.7.31={
+	death="1162.7.31"
+}
+name="Yorinaga"
+dynasty=135
+culture = Japanese
+father=747
+
+1120.5.1={
+	birth="1120.5.1"
+}
+1156.8.1={
+	death="1156.8.1"
+}
+name="Munehito"
+dynasty=144
+culture = Japanese
+father=750
+
+1103.2.24={
+	birth="1103.2.24"
+}
+1156.7.20={
+	death="1156.7.20"
+}
+name="Tokikane"
+dynasty=84
+culture = Japanese
+is_clan_leader = yes
+father=434
+
+diplomacy = 6
+martial = 6
+intrigue = 5
+add_trait = amateurish_plotter
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1213.5.15={
+	death="1213.5.15"
+}
+name="Taruhito"
+dynasty=144
+culture = Japanese
+father=751
+
+1079.8.8={
+	birth="1079.8.8"
+}
+1107.8.9={
+	death="1107.8.9"
+}
+name="Sadahito"
+dynasty=144
+culture = Japanese
+#father=751
+
+1053.7.7={
+	birth="1053.7.7"
+}
+1129.7.24={
+	death="1129.7.24"
+}
+name="Akihito"
+dynasty=144
+culture = Japanese
+father=749
+
+1119.7.7={
+	birth="1119.7.7"
+}
+1164.9.14={
+	death="1164.9.14"
+}
+name="Narihito"
+dynasty=144
+culture = Japanese
+father=749
+
+1142.1.5={
+	birth="1142.1.5"
+}
+1155.8.22={
+	death="1155.8.22"
+}
+name="Morihito"
+dynasty=144
+culture = Japanese
+father=85
+
+1143.7.31={
+	birth="1143.7.31"
+}
+1165.6.5={
+	death="1165.6.5"
+}
+name="Nobuhito"
+dynasty=144
+culture = Japanese
+father=754
+
+1164.12.28={
+	birth="1164.12.28"
+}
+1176.8.23={
+	death="1176.8.23"
+}
+name="Norihito"
+dynasty=144
+culture = Japanese
+father=85
+
+1161.9.23={
+	birth="1161.9.23"
+}
+1181.2.6={
+	death="1181.2.6"
+}
+name="Tokihito"
+dynasty=144
+culture = Japanese
+father=756
+
+1178.12.22={
+	birth="1178.12.22"
+}
+1185.4.25={
+	death="1185.4.25"
+}
+name="Korehira"
+dynasty=22
+culture = Japanese
+father=22
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Munechika"
+dynasty=464
+culture = Japanese
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.1.1={
+	employer=22
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Noritsuna"
+dynasty=85
+culture = Japanese
+is_clan_leader = yes
+father=736
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = naive_appeaser
+
+1132.1.1={
+	birth="1132.1.1"
+}
+1192.11.1={
+	death="1192.11.1"
+}
+name="Tokichika"
+dynasty=464
+culture = Japanese
+father=759
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=22
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Tsuneyoshi"
+dynasty=197
+culture = Japanese
+
+1132.1.1={
+	birth="1132.1.1"
+}
+1180.1.1={
+	employer=41
+}
+1193.1.1={
+	death="1193.1.1"
+}
+name="Tomokane"
+dynasty=197
+culture = Japanese
+father=761
+
+1159.1.1={
+	birth="1159.1.1"
+}
+1180.1.1={
+	employer=41
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Suketaka"
+dynasty=473
+culture = Japanese
+
+father=443
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1225.1.1={
+	death="1225.1.1"
+}
+name="Shigenaga"
+dynasty=474
+culture = Japanese
+
+father=410
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Takaharu"
+dynasty=475
+culture = Japanese
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=88
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Shigemitsu"
+dynasty=62
+culture = Japanese
+father=410
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1181.4.25={
+	death="1181.4.25"
+}
+name="Shigeyori"
+dynasty=62
+culture = Japanese
+father=62
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1176.2.11={
+	death="1176.2.11"
+}
+name="Shigetaka"
+dynasty=62
+culture = Japanese
+father=767
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1192.7.1={
+	death="1192.7.1"
+}
+name="Shigenaga"
+dynasty=476
+culture = Japanese
+father=285
+
+1090.1.1={
+	birth="1090.1.1"
+}
+1150.1.1={
+	death="1150.1.1"
+}
+name="Mitsumoto"
+dynasty=86
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = misguided_warrior
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1205.1.1={
+	death="1205.1.1"
+}
+name="Shigekuni"
+dynasty=476
+culture = Japanese
+father=769
+
+1131.1.1={
+	birth="1131.1.1"
+}
+1222.1.1={
+	death="1222.1.1"
+}
+name="Shigekata"
+dynasty=476
+culture = Japanese
+father=769
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1180.1.1={
+	employer=770
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Shigehiro"
+dynasty=476
+culture = Japanese
+father=769
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=770
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Shigekane"
+dynasty=476
+culture = Japanese
+father=771
+
+1165.1.1={
+	birth="1165.1.1"
+}
+1180.1.1={
+	employer=770
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Shigesada"
+dynasty=62
+culture = Japanese
+father=490
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1182.1.1={
+	death="1182.1.1"
+}
+name="Shigemune"
+dynasty=62
+culture = Japanese
+father=62
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1213.1.1={
+	death="1213.1.1"
+}
+name="Shigefusa"
+dynasty=62
+culture = Japanese
+father=62
+
+1159.1.1={
+	birth="1159.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Yoshisuke"
+dynasty=132
+culture = Japanese
+father=398
+
+1160.1.1={
+birth="1160.1.1"
+}
+1193.1.1={
+death="1193.1.1"
+}name="Kagemitsu"
+dynasty=154
+culture = Japanese
+
+1113.1.1={
+	birth="1113.1.1"
+}
+1180.1.1={
+	employer=57
+}
+1194.1.1={
+	death="1194.1.1"
+}
+name="Yukimitsu"
+dynasty=183
+culture = Japanese
+father=778
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=57
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Kagechika"
+dynasty=87
+culture = Japanese
+is_clan_leader = yes
+father=435
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = underhanded_rogue
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1180.11.15={
+	death="1180.11.15"
+}
+name="Yoshinaga"
+dynasty=57
+culture = Japanese
+father=57
+
+1146.1.1={
+	birth="1146.1.1"
+}
+1194.1.1={
+	death="1194.1.1"
+}
+name="Mitsutomo"
+dynasty=477
+culture = Japanese
+father=397
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1191.1.1={
+	death="1191.1.1"
+}
+name="Yoshito"
+dynasty=478
+culture = Japanese
+father=57
+
+1149.1.1={
+	birth="1149.1.1"
+}
+1221.1.1={
+	death="1221.1.1"
+}
+name="Kaneto"
+dynasty=489
+culture = Japanese
+
+diplomacy = 9
+martial = 7
+intrigue = 8
+add_trait = flamboyant_schemer
+
+1121.1.1={
+	birth="1121.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1181.1.1={
+	death="1181.1.1"
+}
+name="Kanehide"
+dynasty=489
+culture = Japanese
+father=783
+
+diplomacy = 7
+martial = 6
+intrigue = 6
+add_trait = misguided_warrior
+
+1148.1.1={
+	birth="1148.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1183.1.1={
+	death="1183.1.1"
+}
+name="Kanemitsu"
+dynasty=490
+culture = Japanese
+father=783
+
+diplomacy = 7
+martial = 10
+intrigue = 9
+add_trait = underhanded_rogue
+add_trait = loyal
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.3.15={
+	death="1184.3.15"
+}
+name="Kanehira"
+dynasty=491
+culture = Japanese
+father=783
+
+diplomacy = 8
+martial = 9
+intrigue = 7
+add_trait = tough_soldier
+add_trait = loyal
+
+1152.1.1={
+	birth="1152.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.3.4={
+	death="1184.3.4"
+}
+name="Kaneyoshi"
+dynasty=489
+culture = Japanese
+father=783
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = misguided_warrior
+
+1151.1.1={
+	birth="1151.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.3.4={
+	death="1184.3.4"
+}
+name="Kaneyuki"
+#Alternative name:Nakahara Kaneyuki
+dynasty=489
+culture = Japanese
+father=783
+
+diplomacy = 8
+martial = 8
+intrigue = 7
+add_trait = amateurish_plotter
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.1.18={
+	death="1184.1.18"
+}
+name="Tomoe"
+#Alternative name:Nakahara Tomoe
+female = yes
+dynasty=489
+culture = Japanese
+father=783
+
+diplomacy = 6
+martial = 5
+intrigue = 5
+add_trait = tough_soldier
+add_trait = brave
+
+1157.1.1={
+	birth="1157.1.1"
+}
+1180.1.1={
+	add_spouse=25
+}
+1248.1.1={
+	death="1248.1.1"
+}
+name="Kanetaka"
+dynasty=88
+culture = Japanese
+is_clan_leader = yes
+father=437
+
+diplomacy = 7
+martial = 6
+intrigue = 8
+add_trait = amateurish_plotter
+
+
+1155.1.1={
+	birth="1155.1.1"
+}
+1180.9.8={
+	death="1180.9.8"
+}
+name="Yukichika"
+dynasty=492
+culture = Japanese
+
+diplomacy = 9
+martial = 7
+intrigue = 7
+add_trait = tough_soldier
+
+1123.1.1={
+	birth="1123.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.3.4={
+	death="1184.3.4"
+}
+name="Yukitada"
+dynasty=492
+culture = Japanese
+father=790
+
+diplomacy = 7
+martial = 9
+intrigue = 6
+add_trait = naive_appeaser
+
+1147.1.1={
+	birth="1147.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.3.4={
+	death="1184.3.4"
+}
+name="Chikatada"
+#Alternative name:Nei Chikatada
+dynasty=492
+culture = Japanese
+father=790
+
+diplomacy = 6
+martial = 6
+intrigue = 7
+add_trait = amateurish_plotter
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1184.3.4={
+	death="1184.3.4"
+}
+name="Morisumi"
+dynasty=493
+culture = Japanese
+
+diplomacy = 7
+martial = 8
+intrigue = 6
+add_trait = naive_appeaser
+add_trait = skilled_archer
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Morisumi"
+#Alternative name:Kanasashi Mitsumori
+dynasty=493
+culture = Japanese
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = tough_soldier
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1180.1.1={
+	employer=25
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Yukihiro"
+dynasty=94
+culture = Japanese
+father=117
+
+diplomacy = 7
+martial = 8
+intrigue = 6
+add_trait = naive_appeaser
+
+1153.1.1={
+	birth="1153.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Shigeyoshi"
+dynasty=94
+culture = Japanese
+
+diplomacy = 8
+martial = 7
+intrigue = 6
+add_trait = misguided_warrior
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.1.1={
+	employer=117
+}
+1200.1.1={
+	death="1200.1.1"
+}
+name="Nobukuni"
+dynasty=92
+culture = Japanese
+father=115
+
+diplomacy = 8
+martial = 8
+intrigue = 7
+add_trait = naive_appeaser
+
+1142.1.1={
+	birth="1142.1.1"
+}
+1185.1.1={
+	death="1185.1.1"
+}
+name="Tsunenari"
+dynasty=92
+culture = Japanese
+father=115
+
+diplomacy = 7
+martial = 7
+intrigue = 9
+add_trait = naive_appeaser
+
+1145.1.1={
+	birth="1145.1.1"
+}
+1195.1.1={
+	death="1195.1.1"
+}
+name="Motokuni"
+dynasty=92
+culture = Japanese
+father=115
+
+diplomacy = 7
+martial = 6
+intrigue = 5
+add_trait = misguided_warrior
+
+1148.1.1={
+	birth="1148.1.1"
+}
+1184.1.1={
+	death="1184.1.1"
+}
+name="Muneaki"
+dynasty=8
+culture = Japanese
+is_clan_leader = yes
+father=312
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = misguided_warrior
+
+1130.1.1={
+	birth="1130.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Yoshitsune"
+dynasty=89
+culture = Japanese
+is_clan_leader = yes
+father=438
+
+diplomacy = 7
+martial = 7
+intrigue = 6
+add_trait = misguided_warrior
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1180.11.6={
+	death="1180.11.6"
+}
+name="Toshige"
+dynasty=90
+culture = Japanese
+is_clan_leader = yes
+father=441
+
+diplomacy = 7
+martial = 6
+intrigue = 5
+add_trait = amateurish_plotter
+
+1135.1.1={
+	birth="1135.1.1"
+}
+1190.1.1={
+	death="1190.1.1"
+}
+name="Suketoki"
+dynasty=91
+culture = Japanese
+is_clan_leader = yes
+father=443
+
+diplomacy = 5
+martial = 8
+intrigue = 7
+add_trait = naive_appeaser
+
+1150.1.1={
+	birth="1150.1.1"
+}
+1210.1.1={
+	death="1210.1.1"
+}
+name="Myoun"
+dynasty=206
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = tough_soldier
+
+1115.1.1 = {
+	birth="1115.1.1"
+}
+1184.1.3= {
+	death="1184.1.3"
+}name="Hanchi"
+dynasty=207
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = naive_appeaser
+
+1124.1.1={
+	birth="1124.1.1"
+}
+1186.1.1={
+	death="1186.1.1"
+}
+name="Masahito"
+dynasty=144
+culture = Imperial_Family
+is_clan_leader = yes
+father=749
+
+diplomacy = 7
+martial = 1
+intrigue = 7
+add_trait = elusive_shadow
+add_trait = quick
+add_trait = patient
+add_trait = musician
+
+1127.10.18={
+	birth="1127.10.18"
+}
+1192.4.26={
+	death="1192.4.26"
+}
+name="Kanetsune"
+dynasty=158
+culture = Japanese
+is_clan_leader = yes
+father=524
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = naive_appeaser
+
+1160.1.1={
+	birth="1160.1.1"
+}
+1220.1.1={
+	death="1220.1.1"
+}
+name="Tsunetomo"
+dynasty=419
+culture = Japanese
+is_clan_leader = yes
+#father=639
+
+diplomacy = 6
+martial = 7
+intrigue = 6
+add_trait = naive_appeaser
+
+1125.1.1={
+	birth="1125.1.1"
+}
+1181.1.1={
+	death="1181.1.1"
+}
+name="Takamitsu"
+dynasty=475
+culture = Japanese
+is_clan_leader = yes
+
+diplomacy = 7
+martial = 6
+intrigue = 7
+add_trait = naive_appeaser
+
+1156.1.1={
+	birth="1156.1.1"
+}
+1230.1.1={
+	death="1230.1.1"
+}
+name="Kiyomasu"
+dynasty=9
+culture = Japanese
+is_clan_leader = yes
+father=314
+
+diplomacy = 6
+martial = 7
+intrigue = 7
+add_trait = misguided_warrior
+
+1140.1.1={
+	birth="1140.1.1"
+}
+1200.1.1={
+	death="1200.1.1"
+}

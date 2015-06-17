@@ -1,0 +1,404 @@
+96 = {
+	name="Omi-Gamo"
+	color = { 156  96  50 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 68
+			color = 11 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+140 = {
+	name="Kusunoki"
+	color = { 110  229  143 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 75
+			color = 4 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+142 = {
+	name="Kyogoku"
+	color = { 193  26  14 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 8
+			color = 1 # Crest
+			color = 4 # Background
+			color = 0
+		}
+	}
+}
+
+143 = {
+	name="Rokkaku"
+	color = { 34  30  174 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 63
+			color = 1 # Crest
+			color = 5 # Background
+			color = 0
+		}
+	}
+}
+
+145 = {
+	name="Akamatsu"
+	color = { 20  50  210 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 10
+			color = 0 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+146 = {
+	name="Murakami-Minamoto"
+	color = { 10  238  233 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 65
+			color = 0 # Crest
+			color = 9 # Background
+			color = 0
+		}
+	}
+}
+
+148 = {
+	name="Oto no Miya"
+	color = { 213  225  14 } 
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 9
+			color = 6 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+149 = {
+	name="Nawa"
+	color = { 52  132  219 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 32
+			color = 0 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+150 = {
+	name="Shoni"
+	color = { 218  215  56 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 63
+			color = 2 # Crest
+			color = 5 # Background
+			color = 0
+		}
+	}
+}
+
+173 = {
+	name="Aki-Fujiwara"
+	color = { 104  146  21 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 96
+			color = 1 # Crest
+			color = 11 # Background
+			color = 0
+		}
+	}
+}
+
+176 = {
+	name="Hitachi-Oda"
+	color = { 71  224  67 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 38
+			color = 1 # Crest
+			color = 4 # Background
+			color = 0
+		}
+	}
+}
+
+177 = {
+	name="Shirakawa"
+	color = { 138  193  231 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 31
+			color = 1 # Crest
+			color = 8 # Background
+			color = 0
+		}
+	}
+}
+
+179 = {
+	name="Ashina"
+	color = { 223  198  64 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 18
+			color = 1 # Crest
+			color = 4 # Background
+			color = 0
+		}
+	}
+}
+
+182 = {
+	name="Waga"
+	color = { 108  118  189 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 65
+			color = 1 # Crest
+			color = 7 # Background
+			color = 0
+		}
+	}
+}
+
+185 = {
+	name="Oda"
+	color = { 200  85  84 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 13
+			color = 2 # Crest
+			color = 0 # Background
+			color = 0
+		}
+	}
+}
+
+186 = {
+	name="Toyotomi"
+	color = { 234  85  6 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 1
+			texture_internal = 126
+			color = 1 # Crest
+			color = 7 # Background
+			color = 0
+		}
+	}
+}
+
+187 = {
+	name="Daihoji"
+	color = { 166  68  72 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 3
+			color = 0 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+188 = {
+	name="Hatakeyama"
+	color = { 30  75  15 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 23
+			color = 1 # Crest
+			color = 4 # Background
+			color = 0
+		}
+	}
+}
+
+190 = {
+	name="Tokugawa"
+	color = { 2  135  96 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 154
+			color = 4 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+191 = {
+	name="Uesugi"
+	color = { 164  217  127 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 159
+			color = 4 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+192 = {
+	name="Tozawa"
+	color = { 156  179  189 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 6
+			color = 3 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+193 = {
+	name="Akizuki"
+	color = { 97  98  195 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 7
+			color = 1 # Crest
+			color = 3 # Background
+			color = 0
+		}
+	}
+}
+
+194 = {
+	name="Kuroda"
+	color = { 110 154 170 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 110
+			color = 5 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+195 = {
+	name="Mori"
+	color = { 35  110  195 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 89
+			color = 4 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+198 = {
+	name="So"
+	color = { 36  132  247 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 140
+			color = 2 # Crest
+			color = 4 # Background
+			color = 0
+		}
+	}
+}
+
+199 = {
+	name="Tachibana"
+	color = { 122  193  254 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 154
+			color = 5 # Crest
+			color = 1 # Background
+			color = 0
+		}
+	}
+}
+
+200 = {
+	name="Owari-Kato"
+	color = { 239  85  85 }
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 156
+			color = 0 # Crest
+			color = 7 # Background
+			color = 0
+		}
+	}
+}
